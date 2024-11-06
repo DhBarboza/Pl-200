@@ -8,7 +8,8 @@ Simulado do exame de Consultor Funcional do Microsoft Power Platform
 You need to ensure that the owner can view the user audit logs.  
 Where does each action need to be performed? To answer, select the appropriate options in the answer area.  
 NOTE: Each correct selection is worth one point.
-  ![image](https://github.com/user-attachments/assets/4af7cc78-6d16-437a-a3f1-ed6bb4da6225)
+
+![image](https://github.com/user-attachments/assets/4af7cc78-6d16-437a-a3f1-ed6bb4da6225)
 </summary>
 
 **Response:**  
