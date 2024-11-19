@@ -114,23 +114,52 @@ Simulado do exame de Consultor Funcional do Microsoft Power Platform
 
 #### Questão 23:
 
+-   **Drag and drop opportunities to change the stage:** Add a Kanban control
+-   **Show each salesperson their opportunities in Calendar and Kanban view:** Add both controls to the My Opportunities view.
+-   **Show each salesperson the number of open opportunities by stage in a standard view:** Use the List view.
+
 #### Questão 24:
+
+-   **B.** Não
 
 #### Questão 25:
 
+-   **A.** Enable auditing for the Account table. Most Voted
+-   **B.** Enable auditing for the two specific columns.
+
 #### Questão 26:
+
+-   **B.** No
 
 #### Questão 27:
 
+-   **A.** Yes
+
 #### Questão 28:
+
+-   **B.** No
 
 #### Questão 29:
 
+-   **Make a field read onty untll a predetermned value IS exceeded:** Business
+-   **Atomaticaty send an email wtm a records status is to deactvated.:** Real-time workflow
+-   **Use the preaous value of a field when the value is automaticalty updated as part of the:** Real-time workflow
+
 #### Questão 30:
+
+-   **B.** Entities component of a solution
 
 #### Questão 31:
 
+-   **Edit data:** Add a sub-grid
+-   **View data:** Add a quick view
+
 #### Questão 32:
+
+-Ensure that employees can only access the app
+form a specific region
+Specify the locations where a user can access the
+app
 
 #### Questão 33:
 
