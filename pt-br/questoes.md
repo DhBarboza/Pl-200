@@ -169,3 +169,192 @@ How can you use duplicate detection rules to achieve this goal? To answer, selec
 -   Opportunity
 -   Account
 </details>
+
+## Question - 10:
+
+<details>
+  <summary>Answer</summary>
+
+</details>
+
+## Question - 11:
+
+You have two Microsoft Power Platform environments. <BR/>
+Users in one environment must not be able to see the other environment. <BR/>
+You need to grant salespeople access to the sales company environment. <BR/>
+What should you do?
+
+-   A. Add salespeople to an Office 365 security group.
+-   B. Add salespeople to a security role.
+-   C. Set privileges.
+-   D. Set app security.
+
+<details>
+  <summary>Answer</summary>
+
+-   A. Add salespeople to an Office 365 security group.
+</details>
+
+## Question - 12:
+
+A veterinary office plans to use Power Platform to streamline customer experiences. The customer creates a canvas apps to manage appointments. <BR/>
+On the client appointment form, there is a dropdown field for clients to select their type of pet. If a client selects the option <BR/> Other, the veterinarian wants a text field to appear so that additional details can be added.<BR/>
+You need to create a dynamically visible field.<BR/>
+What should you configure?
+
+-   A. workflow
+-   B. business process flow
+-   C. business rule
+
+<details>
+  <summary>Answer</summary>
+
+-   C. business rule
+</details>
+
+## Question - 13:
+
+You create an app for the sales team at a company. <br/>
+Members of the sales team cannot access the app. <br/>
+You need to ensure that sales team members can access the app. <br/>
+Where should you configure app permissions?
+
+-   A. Dynamics administration center
+-   B. Manage Roles
+-   C. Security Roles
+
+<details>
+  <summary>Answer</summary>
+
+-   C. Security Roles
+</details>
+
+## Question - 14:
+
+You create a parent entity and a child entity. The parent entity has a 1:N relationship with the child entity. <br/>
+You need to ensure that when the owner changes on the parent record that all child records are assigned to the new owner. <br/>
+You need to configure the relationship behavior type. <br/>
+What should you use?
+
+-   A. Referential
+-   B. Referential, Restrict Delete
+-   C. Parental
+-   D. Restrict
+
+<details>
+  <summary>Answer</summary>
+
+-   C. Parental
+</details>
+
+## Question - 15:
+
+You need to recommend a role for users to perform several required tasks. The solution must use the principle of least privilege. <br/>
+Which roles should you recommend? To answer, drag the appropriate roles to the correct functions. Each role may be used once, more than once, or not at all. <br/>>
+You may need to drag the split bar between panes or scroll to view content. <br/>
+NOTE: Each correct selection is worth one point. <br/>
+Select and Place:
+
+![question-15](image-8.png)
+
+<details>
+  <summary>Answer</summary>
+
+![question-15-answer](image-9.png)
+
+</details>
+
+## Question - 16:
+
+You are designing an app for a bank. <br/>
+You must create entities for the app and configure relationships between entities: <br/>
+![question-16](image-10.png)
+Which relationship types should you use? To answer, drag the appropriate relationship types to the correct requirements. Each relationship type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br/>
+NOTE: Each correct selection is worth one point. <br/>
+Select and Place:
+
+![question-16](image-11.png)
+
+<details>
+  <summary>Answer</summary>
+
+![question-16-answer](image-12.png)
+
+</details>
+
+## Question - 17:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.<br/>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.<br/>
+You administer the Microsoft 365 and Power Platform environments for Contoso, Ltd. The company has a model-driven app that is used to track customer interactions with employees. The app uses standard table types for customers. A user named Elisabeth Rice signs in to the app by using the following sign in name: Elisabeth.Rice@contoso.com. <br/>
+After marriage, Elisabeth changes her legal name to Elisabeth Mueller. <br/>
+You need to update the sign in name for the user without losing any application history. <br/>
+Solution: Change Elizabeth's username in the user record for the app. <br/>
+Does the solution meet the goal?
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   B. No
+</details>
+
+## Question - 18:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.<br/>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.<br/>
+You administer the Microsoft 365 and Power Platform environments for Contoso, Ltd. The company has a model-driven app that is used to track customer interactions with employees. The app uses standard table types for customers. A user named Elisabeth Rice signs in to the app by using the following sign in name: Elisabeth.Rice@contoso.com.<br/>
+After marriage, Elisabeth changes her legal name to Elisabeth Mueller. <br/>
+You need to update the sign in name for the user without losing any application history. <br/>
+Solution: Ask the Microsoft 365 administrator to sign in to the admin portal and change the username. <br/>
+Does the solution meet the goal?
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   A. Yes
+</details>
+
+## Question - 19:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br/>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br/>
+You administer the Microsoft 365 and Power Platform environments for Contoso, Ltd. The company has a model-driven app that is used to track customer interactions with employees. The app uses standard table types for customers. A user named Elisabeth Rice signs in to the app by using the following sign in name: Elisabeth.Rice@contoso.com. <br/>
+After marriage, Elisabeth changes her legal name to Elisabeth Mueller. <br/>
+You need to update the sign in name for the user without losing any application history. <br/>
+Solution: Delete the user account in the Power Platform admin portal and recreate the account by using the new name. <br/>
+Does the solution meet the goal?
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   B. No
+</details>
+
+## Question - 20:
+
+You need to create a system chart for the Account entity.<br/>
+The chart must display a count of accounts grouped by owner and then display the accounts by Address 1: State/Province for each owner. You begin to configure chart options as shown in the image below.<br/>
+
+![question-20](image-13.png)
+
+How should you complete the configuration? To answer, select the appropriate options in the answer area. <br/>
+NOTE: Each correct selection is worth one point. The chart must display a count of accounts grouped by owner, and then display the accounts by Address 1 to <br/>
+State/Province for each owner. <br/>
+
+![question-20-1](image-14.png)
+
+<details>
+  <summary>Answer</summary>
+
+![question-20-answer](image-15.png)
+
+</details>

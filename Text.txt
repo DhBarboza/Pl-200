@@ -1,0 +1,41 @@
+[Convencao] Staff;[Convencao] Staff_E;[Convencao] Demanda ;[Convencao] Demanda_E;[Convencao] Equipe regional SPI;[Convencao] Equipe Regional SPI_E
+
+
+items('ForEach_Data_Excel')?['Data Inicio']
+
+formatDateTime(addDays('1900-01-01', sub(int(items('ForEach_Data_Excel')?['Data Inicio']), 2), 'yyyy-MM-ddTHH:mm:ssZ')
+
+formatDateTime(addDays('1900-01-01', int(ExcelSerialNumber) - 2), 'yyyy-MM-ddTHH:mm:ssZ')
+
+
+addDays('1900-01-01', sub(int(outputs('Data_Inicio')),2), 'yyyy-MM-ddTHH:mm:ssZ')
+
+addDays('1900-01-01', sub(int(items('ForEach_Data_Excel')?['Data Inicio']),2), 'yyyy-MM-ddTHH:mm:ssZ')
+
+addDays('1900-01-01', sub(int(items('ForEach_Data_Excel')?['Data Fim']),2), 'yyyy-MM-ddTHH:mm:ssZ')
+
+items('ForEach_Data_Excel')?['Title']
+items('ForEach_Data_Excel')?['Publico']
+items('ForEach_Data_Excel')?['Nome do Evento']
+items('ForEach_Data_Excel')?['Palestra Obrigatoria']
+
+first(outputs('Get_Publico')?['body/value'])?['ID']
+
+items('ForEach_Data_Excel')?['Codigo']
+
+{
+    "Id": ""
+}
+
+if(equals(outputs('Split_Codigo_Excel')[0], ''), '99999999', outputs('Split_Codigo_Excel')[0])
+
+if(equals(items('ForEach_Data_Excel')?['Palestra Obrigatoria'], 'Sim'), 'true', 'false')
+
+"Accept": "application/json;odata=verbose","Content-Type": "application/json;odata=verbose",
+
+{
+  "__metadata": { "type": "SP.List" },
+  "Hidden": false
+}
+
+items('ForEach_Array_Palestrantes')
