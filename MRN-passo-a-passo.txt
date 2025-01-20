@@ -1,0 +1,31 @@
+Instruções para Adicionar Vídeos na Galeria
+
+1. Acesso às Configurações de Administrador
+    1.1 Na Página Inicial, clique em Configurações e selecione a opção Administrador.
+
+2. Adicionar Vídeo à Galeria
+    2.1. No menu superior, selecione Home > Galeria de Vídeos.
+
+3. Siga o procedimento de acordo com a origem do vídeo (YouTube ou SharePoint)
+    3.1 Obter a URL do Vídeo - YouTube
+        3.1.1. Acesse o vídeo desejado no YouTube.
+        3.1.2. Clique no botão Compartilhar abaixo do vídeo.
+        3.1.3. Selecione a opção Incorporar.
+        3.1.4. Copie o link gerado no campo exibido.
+        3.1.5. Retorne à Galeria de Vídeos e clique em Cadastrar Novo Item.
+        3.1.6. Cole a URL gerada no campo correspondente.
+
+    3.2. Obter a URL do Vídeo - SharePoint
+        3.2.1. Faça o upload do vídeo desejado em uma biblioteca do SharePoint.
+        3.2.2. Após o upload, clique no vídeo para abrir na interface do Stream.
+        3.2.3. Na tela do vídeo, clique em Compartilhar.
+        3.2.4. Escolha a opção Código embutido (ou Embed Code, dependendo da língua configurada).
+        3.2.5. Copie o código gerado.
+        3.2.6. Retorne à Galeria de Vídeos e clique em Cadastrar Novo Item.
+        3.2.7. Cole a URL gerada no campo correspondente.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGcoS4sO1UU?si=ZNYzz1LHLu3KvgMU&amp" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NI5uUjOF93A?si=7FTdQ6ItQvqT5IsD" allowfullscreen></iframe>
+
+<iframe src="https://mrncombr.sharepoint.com/sites/Intranet/_layouts/15/embed.aspx?UniqueId=a3c79111-ba4c-4a15-81af-bf370fa7edc7&embed=%7B%22hvm%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Espisódio 04.mp4"></iframe>

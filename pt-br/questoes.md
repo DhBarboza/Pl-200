@@ -339,7 +339,9 @@ Does the solution meet the goal?
 -   B. No
 </details>
 
-## Question - 20:
+---
+
+### Question - 20:
 
 You need to create a system chart for the Account entity.<br/>
 The chart must display a count of accounts grouped by owner and then display the accounts by Address 1: State/Province for each owner. You begin to configure chart options as shown in the image below.<br/>
@@ -357,4 +359,42 @@ State/Province for each owner. <br/>
 
 ![question-20-answer](image-15.png)
 
+</details>
+
+---
+
+### Question - 21:
+
+A user has access to an existing Common Data Service database. <br/>
+You need to ensure that the user can create canvas apps that consume data from Dataverse. <br/> You must not grant permissions that are not required. <br/>
+Which out-of-the-box security role should you assign to the user?
+
+-   A. Environment Admin
+-   B. System Customizer
+-   C. Common Data Service User
+-   D. Environment Maker
+
+<details>
+  <summary>Answer</summary>
+
+-   D. Environment Maker
+</details>
+
+---
+
+### Question - 22:
+
+A company deploys several model-driven apps. The company uses shared devices in their warehouse. The devices are always powered on. Users log on to the devices and then launch the apps to perform actions. <br/>
+Unauthorized users recently uploaded several files after another user failed to log out of a device. The company needs to prevent these incidents from occurring in the future. <br/>
+You need to configure the solution to prevent the reported security incidents. <br/>
+What should you do? To answer, select the appropriate options in the answer area. <br/>
+NOTE: Each correct selection is worth one point. <br/>
+
+![question-22](image-16.png)
+
+<details>
+  <summary>Answer</summary>
+
+-   Set a timeout in the Power Platform admin center
+-   Enter the restricted file types in the PowerPlatform Admin center
 </details>

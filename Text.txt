@@ -14,10 +14,19 @@ addDays('1900-01-01', sub(int(items('ForEach_Data_Excel')?['Data Inicio']),2), '
 
 addDays('1900-01-01', sub(int(items('ForEach_Data_Excel')?['Data Fim']),2), 'yyyy-MM-ddTHH:mm:ssZ')
 
+addDays('1900-01-01', sub(int(items('ForEach_Data_Excel')?['Data Inicio']), 2), 'yyyy-MM-ddTHH:mm:ssZ')
+
 items('ForEach_Data_Excel')?['Title']
 items('ForEach_Data_Excel')?['Publico']
 items('ForEach_Data_Excel')?['Nome do Evento']
 items('ForEach_Data_Excel')?['Palestra Obrigatoria']
+items('ForEach_Data_Excel')?['Tipo']
+items('ForEach_Data_Excel')?['Status']
+items('ForEach_Data_Excel')?['Local']
+items('ForEach_Data_Excel')?['Regionais']
+items('ForEach_Data_Excel')?['Sala']
+items('ForEach_Data_Excel')?['Lotacao']
+items('ForEach_Data_Excel')?['Descricao']
 
 first(outputs('Get_Publico')?['body/value'])?['ID']
 
@@ -28,8 +37,13 @@ items('ForEach_Data_Excel')?['Codigo']
 }
 
 if(equals(outputs('Split_Codigo_Excel')[0], ''), '99999999', outputs('Split_Codigo_Excel')[0])
+if(equals(outputs('Split_Codigo_Excel')[1], ''), 'Nulo', outputs('Split_Codigo_Excel')[1])
 
 if(equals(items('ForEach_Data_Excel')?['Palestra Obrigatoria'], 'Sim'), 'true', 'false')
+
+if(equals(items('ForEach_Data_Excel')?['Exibe para o palestrante'], 'Sim'), 'true', 'false')
+
+if(equals(items('ForEach_Data_Excel')?['Online'], 'Sim'), 'true', 'false')
 
 "Accept": "application/json;odata=verbose","Content-Type": "application/json;odata=verbose",
 
@@ -39,3 +53,34 @@ if(equals(items('ForEach_Data_Excel')?['Palestra Obrigatoria'], 'Sim'), 'true', 
 }
 
 items('ForEach_Array_Palestrantes')
+
+https://<site>.sharepoint.com/sites/<site-name>/_api/web/lists/getbytitle('<list-name>')/fields/getbytitle('<column-name>')
+
+https://ilibbs.sharepoint.com/sites/convencaolibbs/_api/web/lists/getbytitle('Palestra')/fields/getbytitle('OData__ModernAudienceTargetUserField')
+
+https://<seu_site>.sharepoint.com/_api/web/sitegroups?$filter=Title eq '[Convencao] Staff'
+
+
+{
+  ""
+}
+
+https://graph.microsoft.com/v1.0/groups?$filter=displayName eq ''
+
+https://ilibbs.sharepoint.com/sites/convencaolibbs/_api/web/lists/getbytitle('Palestras')/items?$select=*,ModernAudience/Id,ModernAudience/Title&$expand=ModernAudience
+
+
+_api/web/lists/getbytitle('Palestras')/items?$select=*,ModernAudience/Id,ModernAudience/Title&$expand=ModernAudience
+
+_api/web/lists/getbytitle('Palestras')/items?$select=*,ModernAudienceTargetUserField/Id,ModernAudienceTargetUserField/Title&$expand=ModernAudienceTargetUserField
+
+_api/web/lists/getbytitle('Palestras')/items?$select=*,Audience/Id,Audience/Title&$expand=Audience
+
+Groups/Title eq '[Treinamento]  Bruno Guedes_E'
+
+sub(float(items('ForEach_Data_Excel')?['Data Inicio']),2)
+
+addDays('1900-01-01', sub(float(items('ForEach_Data_Excel')?['Data Inicio']), 2), 'yyyy-MM-ddTHH:mm:ssZ')
+
+"Data Inicio": "2025-01-20T21:00:00.000Z",
+"Data Fim": "2025-01-20T22:00:00.000Z",
