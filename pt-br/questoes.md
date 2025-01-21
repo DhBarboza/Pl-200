@@ -398,3 +398,167 @@ NOTE: Each correct selection is worth one point. <br/>
 -   Set a timeout in the Power Platform admin center
 -   Enter the restricted file types in the PowerPlatform Admin center
 </details>
+
+---
+
+### Question - 23:
+
+A company's sales staff wants a simplified way to manage their opportunities in Dynamics 365 Sales without adding custom code. <br>
+You need to provide a solution for each requirement. <br>
+Which solutions should you provide? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+![question-23](image-17.png)
+
+<details>
+  <summary>Answer</summary>
+
+![question-23-answer](image-18.png)
+
+</details>
+
+---
+
+### Question - 24:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br>
+You administer the Microsoft 365 and Power Platform environments for Contoso, Ltd. The company has a model-driven app that is used to track customer interactions with employees. The app uses standard table types for customers. A user named Elisabeth Rice signs in to the app by using the following sign in name: Elisabeth.Rice@contoso.com. <br>
+After marriage, Elisabeth changes her legal name to Elisabeth Mueller. <br>
+You need to update the sign in name for the user without losing any application history. <br>
+Solution: From Dynamics 365 Settings, select Email Configuration. In the active mailbox for the user, update the name. <br>
+Does the solution meet the goal? <br>
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   No
+</details>
+
+---
+
+### Question - 25:
+
+You plan to implement Microsoft Dataverse. <br>
+You must track changes for two columns in the Account table. You must maintain a historical log of changes for the two columns and track only what is necessary. <br>
+You configure the appropriate organization settings. <br>
+You need to configure the system to track changes for the two columns. <br>
+Which two actions should you perform? Each correct answer presents part of the solution. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+-   A. Enable auditing for the Account table.
+-   B. Enable auditing for the two specific columns.
+-   C. Enable change tracking for the Account table.
+-   D. Enable change tracking for the two specific columns.
+
+<details>
+  <summary>Answer</summary>
+
+-   A. Enable auditing for the Account table.
+-   B. Enable auditing for the two specific columns.
+</details>
+
+---
+
+### Question - 26:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br>
+On a Contact record, a user creates a Note record that contains the word running. <br>
+One week later, the user reports that they cannot find the Contact record associated with the Note record. <br>
+You need to find the Note record. <br>
+Solution: Use Categorized Search to search for the word run. <br>
+Does the solution meet the goal? <br>
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   B. No
+</details>
+
+---
+
+### Question - 27:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br>
+On a Contact record, a user creates a Note record that contains the word running. <br>
+One week later, the user reports that they cannot find the Contact record associated with the Note record. <br>
+You need to find the Note record. <br>
+Solution: Use Relevance Search to search for the word run. <br>
+Does the solution meet the goal? <br>
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   Yes
+</details>
+
+---
+
+### Question - 28:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br>
+On a Contact record, a user creates a Note record that contains the word running. <br>
+One week later, the user reports that they cannot find the Contact record associated with the Note record. <br>
+You need to find the Note record. <br>
+Solution: Use Quick Find search on the Notes list to search for the word run. <br>
+Does the solution meet the goal? <br>
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   No
+</details>
+
+---
+
+### Question - 29:
+
+You are implementing a model-driven app to support a new line of business. <br>
+There are several places where automated business logic must be applied. <br>
+You need to determine how to apply the business logic. <br>
+Which method should you use? To answer, drag the appropriate methods to the appropriate business logic statements. Each method may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+![question-29](image-19.png)
+
+<details>
+  <summary>Answer</summary>
+
+-   Business rules
+-   Real-time workflow
+-   Real-time workflow
+</details>
+
+---
+
+### Question - 30:
+
+Your organization does not permit the use of custom code for solutions. <br>
+You need to create a view that can be viewed by all users in an organization. <br>
+Where should you create the view? <br>
+
+-   A. Advanced Find
+-   B. Entities component of a solution
+-   C. Microsoft Excel template
+-   D. Templates area
+
+<details>
+  <summary>Answer</summary>
+
+-   B. Entities component of a solution
+</details>
