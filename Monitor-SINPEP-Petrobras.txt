@@ -1,0 +1,98 @@
+Open aplication (2 minutos)
+
+OnStart - 7 segundos
+Alterar idioma - pt-br - 1432 items (1 minuto e 2 segundos)
+Alterar idioma - en-us - 1452 items (1 minuto e 4 segundos)
+
+Navegar "Register Standart" - 415
+
+Navegar "Register Standart" - 393 - (4 minutos e 10 segundos)
+
+Navegar "Register Standart" - 393 - (4 minutos e 10 segundos)
+
+Duration (ms) I v
+14756
+14755
+11493
+11487
+11480
+11454
+11454
+11448
+10057
+9379
+9259
+9255
+8732
+8537
+8233
+8230
+4288
+4288
+3420
+2774
+2773
+2773
+2760
+2758
+2752
+2742
+2727
+2724
+2718
+1596
+1564
+1553
+1548
+1538
+1534
+1530
+1525
+1524
+1524
+1517
+1400
+1386
+1385
+1365
+1365
+1365
+1307
+1302
+1295
+875
+874
+871
+860
+859
+858
+857
+845
+832
+826
+794
+
+
+Get_Group_Participante
+varGroup_Participante
+varClaims_Participante
+Populate_Participantes_Array
+
+@{items('ForEach_Array_Publicos')}
+
+K:K
+L:L
+
+Range("K:K")
+Range("L:L")
+
+Regionais
+
+items('ForEach_Array_Regionais')
+
+Get_Regional_2
+
+[Treinamento] Staff Lake paradise_E
+[Treinamento] Staff Windsor Marapendi_E
+[Treinamento] Staff Vale Suiço_E
+[Treinamento] Staff Enotel_E

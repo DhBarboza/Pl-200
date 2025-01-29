@@ -1,0 +1,36 @@
+Private Sub Worksheet_Change(ByVal Target As Range)
+    Dim Oldvalue As String
+    Dim Newvalue As String
+    Dim CheckRange As Range
+    Application.EnableEvents = True
+    On Error GoTo Exitsub
+
+    ' Definir as colunas que precisam da validação
+    Set CheckRange = Union(Range("J:J"), Range("M:M"), Range("N:N"), Range("P:P"))
+
+    ' Verifica se a célula alterada está dentro das colunas definidas
+    If Not Intersect(Target, CheckRange) Is Nothing Then
+        If Target.SpecialCells(xlCellTypeAllValidation) Is Nothing Then
+            GoTo Exitsub
+        ElseIf Target.Value = "" Then
+            GoTo Exitsub
+        Else
+            Application.EnableEvents = False
+            Newvalue = Target.Value
+            Application.Undo
+            Oldvalue = Target.Value
+            If Oldvalue = "" Then
+                Target.Value = Newvalue
+            Else
+                If InStr(1, Oldvalue, Newvalue) = 0 Then
+                    Target.Value = Oldvalue & ";" & Newvalue
+                Else
+                    Target.Value = Oldvalue
+                End If
+            End If
+        End If
+    End If
+
+Exitsub:
+    Application.EnableEvents = True
+End Sub
