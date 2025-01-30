@@ -84,3 +84,42 @@ addDays('1900-01-01', sub(float(items('ForEach_Data_Excel')?['Data Inicio']), 2)
 
 "Data Inicio": "2025-01-20T21:00:00.000Z",
 "Data Fim": "2025-01-20T22:00:00.000Z",
+
+
+Análisei o histórico de execução.
+
+Quem preencheu a planilha quebrou as regras de inserção, fixando o valor, de novo é aquele problema de nomenclatura dos grupos. Não conseguimos cadastrar por meio do "Nome de exibição", e sim pelo nome de criação. que é o que o SharePoint e Azure espera receber.
+
+Na planilha está correto:
+
+"[Treinamento] vendas-
+" [Treinamento] vendas _ E"
+"[Treinamento] Staff_E"
+
+variables('colParticipantes')
+
+if(empty(items('ForEach_Data_Excel')?['Lotacao']), 0, items('ForEach_Data_Excel')?['Lotacao'])
+
+@{items('ForEach_Data_Excel')?['Lotacao']}
+
+@variables('colRegionais')
+@variables('colEquipes')
+@variables('colEspecialidades')
+@variables('colAudience')
+@variables('colPalestrantes')
+
+if(empty(variables('colRegionais')), '', variables('colRegionais'))
+if(empty(variables('colEquipes')), '', variables('colEquipes'))
+if(empty(variables('colEspecialidades')), '', variables('colEspecialidades'))
+if(empty(variables('colAudience')), '', variables('colAudience'))
+if(empty(variables('colPalestrantes')), '', variables('colPalestrantes'))
+
+@items('ForEach_Data_Excel')?['Tipo']
+if(empty(items('ForEach_Data_Excel')?['Tipo']), 'Inativa', items('ForEach_Data_Excel')?['Tipo'])
+
+@items('ForEach_Data_Excel')?['Tipo']
+
+[Treinamento] GD Especialista SNC_E
+[Treinamento] GD Especialista CRD_E
+[Convencao] Vendas_E
+[Treinamento] Gerentes Regionais Demanda
