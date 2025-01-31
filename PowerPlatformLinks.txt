@@ -1,0 +1,15 @@
+PL-7001: Criar e gerenciar aplicativos de tela com o Power Apps
+https://lnkd.in/dqj4cdbU
+
+PL-7002: Criar e gerenciar processos automatizados usando o Power Automate
+https://lnkd.in/dmrXQsiJ
+
+PL-7003: Criar e gerenciar aplicativos baseados em modelo com o Power Apps e o Dataverse
+https://lnkd.in/dSkxzfCa
+
+PL-7004: Implementar modelos de IA com o AI Builder do Microsoft Power Platform
+https://lnkd.in/drmbWRaN
+
+PL-7008: Criar agentes no Microsoft Copilot Studio
+(Exame ainda indisponível, mas você já pode se preparar aqui:)
+https://lnkd.in/dTvSRyVT
