@@ -123,3 +123,8 @@ if(empty(items('ForEach_Data_Excel')?['Tipo']), 'Inativa', items('ForEach_Data_E
 [Treinamento] GD Especialista CRD_E
 [Convencao] Vendas_E
 [Treinamento] Gerentes Regionais Demanda
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EcenUawh218?si=6kJ9J5oeNkkGuylV" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8pDcO7kpVBE?si=iKBkTuM6gvu15GgY" allowfullscreen></iframe>

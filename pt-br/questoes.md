@@ -1,4 +1,4 @@
-## Question - 1:
+### Question - 1:
 
 The owner of a company needs to know who signs into the system.
 You need to ensure that the owner can view the user audit logs.
@@ -13,7 +13,7 @@ NOTE: Each correct selection is worth one point.
   ![question-1-answer](image-2.png)
 </details>
 
-## Question - 2:
+### Question - 2:
 
 Your organization does not permit the use of custom code for solutions.
 You need to create a view that can be viewed by all users in an organization.
@@ -30,7 +30,7 @@ Where should you create the view?
   - D. Maker portal
 </details>
 
-## Question - 3:
+### Question - 3:
 
 You create a Power Apps portal to provide training and documentation for students. Students create a profile on the portal and then select and pay for courses.
 You plan to add free courses to the training portfolio. Free courses must be automatically available to all students after they sign in.
@@ -47,7 +47,7 @@ What should you do?
   - C. Create an entity for managing free courses. Create a Students web role and set the Authenticated Users role option to true. Create appropriate entity permissions to access the free course entity records and assign the entity permissions to the web role.
 </details>
 
-## Question - 4:
+### Question - 4:
 
 You create workflows to automate business processes.
 You need to configure a workflow to meet the following requirements:
@@ -66,7 +66,7 @@ You need to configure a workflow to meet the following requirements:
   ![question-4-answer](image-3.png)
 </details>
 
-## Question - 5:
+### Question - 5:
 
 You are a Dynamics 365 Customer Service administrator.
 You need to configure the following automation for the sales team:
@@ -86,7 +86,7 @@ NOTE: Each correct selection is worth one point.
   ![question-5-answer](image-5.png)
 </details>
 
-## Question - 6:
+### Question - 6:
 
 A company uses Microsoft Dataverse to manage prospects. The company has a business process flow named BPFA that is associated with the Prospect entity to streamline the prospect management process.
 You add a field named Category to the Prospect entity. You create additional business process flows. You apply the business process flows to Prospect records based on the selected category. Users can switch to any other newly configured business process flows but must not use BPFA.<br/>
@@ -106,7 +106,7 @@ NOTE: Each correct selection is worth one point.
 -   C. Deactivate BPFA.
 </details>
 
-## Question - 7:
+### Question - 7:
 
 You are creating a business rule to implement new business logic.
 You must apply the business logic to a canvas app that has a single screen named Screen1.<br/>
@@ -124,7 +124,7 @@ Which scope should you use?
 -   B. Entity
 </details>
 
-## Question - 8:
+### Question - 8:
 
 You are a Dynamics 365 Customer Services administrator. You have a Production instance and Sandbox instance.<br/>
 Users record Production instance data in the Sandbox instance.
@@ -140,7 +140,7 @@ NOTE: Each correct selection is worth one point.
 -   Roles
 </details>
 
-## Question - 9:
+### Question - 9:
 
 You must create a new entity to support a new feature for an app. Records for the entity must be associated with a business unit and specify security roles for the business unit.<br/>
 You need to configure entity ownership.<br/>
@@ -157,7 +157,7 @@ Which entity ownership type should you use?
 -   A. user or team owned
 </details>
 
-## Question - 10:
+### Question - 10:
 
 You need to ensure that there are no leads for a customer before you create a new opportunity for the customer.<br/>
 How can you use duplicate detection rules to achieve this goal? To answer, select the appropriate options in the answer area.<br/>
@@ -170,14 +170,14 @@ How can you use duplicate detection rules to achieve this goal? To answer, selec
 -   Account
 </details>
 
-## Question - 10:
+### Question - 10:
 
 <details>
   <summary>Answer</summary>
 
 </details>
 
-## Question - 11:
+### Question - 11:
 
 You have two Microsoft Power Platform environments. <BR/>
 Users in one environment must not be able to see the other environment. <BR/>
@@ -195,7 +195,7 @@ What should you do?
 -   A. Add salespeople to an Office 365 security group.
 </details>
 
-## Question - 12:
+### Question - 12:
 
 A veterinary office plans to use Power Platform to streamline customer experiences. The customer creates a canvas apps to manage appointments. <BR/>
 On the client appointment form, there is a dropdown field for clients to select their type of pet. If a client selects the option <BR/> Other, the veterinarian wants a text field to appear so that additional details can be added.<BR/>
@@ -212,7 +212,7 @@ What should you configure?
 -   C. business rule
 </details>
 
-## Question - 13:
+### Question - 13:
 
 You create an app for the sales team at a company. <br/>
 Members of the sales team cannot access the app. <br/>
@@ -229,7 +229,7 @@ Where should you configure app permissions?
 -   C. Security Roles
 </details>
 
-## Question - 14:
+### Question - 14:
 
 You create a parent entity and a child entity. The parent entity has a 1:N relationship with the child entity. <br/>
 You need to ensure that when the owner changes on the parent record that all child records are assigned to the new owner. <br/>
@@ -247,7 +247,7 @@ What should you use?
 -   C. Parental
 </details>
 
-## Question - 15:
+### Question - 15:
 
 You need to recommend a role for users to perform several required tasks. The solution must use the principle of least privilege. <br/>
 Which roles should you recommend? To answer, drag the appropriate roles to the correct functions. Each role may be used once, more than once, or not at all. <br/>>
@@ -264,7 +264,7 @@ Select and Place:
 
 </details>
 
-## Question - 16:
+### Question - 16:
 
 You are designing an app for a bank. <br/>
 You must create entities for the app and configure relationships between entities: <br/>
@@ -282,7 +282,7 @@ Select and Place:
 
 </details>
 
-## Question - 17:
+### Question - 17:
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.<br/>
 After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.<br/>
@@ -301,7 +301,7 @@ Does the solution meet the goal?
 -   B. No
 </details>
 
-## Question - 18:
+### Question - 18:
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.<br/>
 After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.<br/>
@@ -320,7 +320,7 @@ Does the solution meet the goal?
 -   A. Yes
 </details>
 
-## Question - 19:
+### Question - 19:
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br/>
 After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br/>
@@ -562,3 +562,412 @@ Where should you create the view? <br>
 
 -   B. Entities component of a solution
 </details>
+
+---
+
+### Question - 31:
+
+You develop a Power Apps app. <br>
+Users report that the main form does not display data from other entities or allow them to edit data from other entities. <br>
+You need to embed information from other entities in the form and allow users to edit the data. <br>
+Which actions should you perform? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+![question-31](image-20.png)
+
+<details>
+  <summary>Answer</summary>
+
+-   Add a sub-grid
+-   Add a quick view
+</details>
+
+### Question - 32:
+
+A company uses a canvas app to manage production resources in a specific region. Employees must be at company locations to use the app. <br>
+Due to a sudden requirement for employees to work remotely, employees no longer commute to a specific location to conduct their work and cannot access the canvas app. <br>
+You must reconfigure the app to ensure that employees only access the app from a limited number of locations. <br>
+You need to restrict access to the app. <br>
+Which components should you configure? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+![question-32](image-21.png)
+
+<details>
+  <summary>Answer</summary>
+
+![answer-question-32](image-22.png)
+
+</details>
+
+---
+
+### Question - 33:
+
+You attempt to deactivate several currencies in a Microsoft Dataverse environment. <br>
+You are not able to deactivate one of the currencies. <br>
+You need to determine why you cannot deactivate the currency. <br>
+What is the reason? <br>
+
+-   A. You are not the currency record owner.
+-   B. The currency is used by an active business process.
+-   C. The currency is the base currency.
+-   D. The currency is used by another record.
+
+<details>
+  <summary>Answer</summary>
+
+-   C. The currency is the base currency.
+</details>
+
+---
+
+### Question - 34:
+
+A user has access to an existing Microsoft Dataverse database. <br>
+You need to ensure that the user can create canvas apps that consume data from Dataverse. You must not grant permissions that are not required. <br>
+Which out-of-the-box security role should you assign to the user? <br>
+
+-   A. Environment Admin
+-   B. Basic User
+-   C. Environment Maker
+-   D. System Customizer
+
+<details>
+  <summary>Answer</summary>
+
+-   C. Environment Maker
+</details>
+
+---
+
+### Question - 35:
+
+You are configuring Microsoft Dataverse security. You plan to assign users to teams. <br>
+Record ownership and permissions will differ based on business requirements. <br>
+You need to determine which team types meet the requirements. <br>
+Which team type should you use? To answer, drag the appropriate team types to the correct requirements. Each team type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+![question-35](image-23.png)
+
+<details>
+  <summary>Answer</summary>
+
+-   Azure Active Directory group Team / Entra ID
+-   Access team
+</details>
+
+---
+
+### Question - 36:
+
+A company has locations in the United States, Brazil, India, and Japan. The company conducts financial transactions in all of these regions. <br>
+Financial transactions in Brazil are going to stop, but the office will remain open. <br>
+Users must no longer be able to create records associated with the Brazilian currency. Historical records must remain intact. <br>
+You need to configure Microsoft Dataverse to meet the requirement <br>
+What should you do? <br>
+
+-   A. Disable the Brazilian language pack.
+-   B. Rename the Brazilian currency.
+-   C. Delete the Brazilian currency record.
+-   D. Deactivate the Brazilian currency record.
+
+<details>
+  <summary>Answer</summary>
+
+-   D. Deactivate the Brazilian currency record.
+</details>
+
+---
+
+### Question - 37:
+
+You are setting up Power Apps security for a company. The company has a CEO, two vice presidents, and 10 managers. Five support representatives report to each manager. <br>
+You set up Manager Hierarchy so managers are able to view data only for the representatives who report to them. The CEO must be able to view all data for everyone. All support representatives must be able to view customer information in each other's data across all managers. <br>
+You need to resolve issues that arise during testing. <br>
+What should you do? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+![question-37](image-24.png)
+
+<details>
+  <summary>Answer</summary>
+
+1. Add the manager's name to the representative's user record. (The question should say "reports'")
+2. Change Manager Hierarchy depth to 3.
+3. Setup a position hierarchy. (This is the only option that lets you view records owned by users in other business units besides if the record is shared.)
+ </details>
+
+---
+
+### Question - 38:
+
+You are embedding a Power Apps visual in a Power BI dashboard. <br>
+External customers must authenticate to have access to the dashboard. <br>
+You need to configure the solution. <br>
+Which two actions should you perform? Each correct answer presents part of the solution. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+-   A. Set the Power BI service to authenticate users.
+-   B. Use a table in the Power BI dashboard.
+-   C. Publish to Power BI Report Server.
+-   D. Set the Power BI service to allow anonymous access.
+-   E. Share the Power Apps visual components with external users.
+
+<details>
+  <summary>Answer</summary>
+
+-   A. Set the Power BI service to authenticate users.
+-   E. Share the Power Apps visual components with external users.
+</details>
+
+---
+
+### Question - 39:
+
+Your organization does not permit the use of custom code for solutions. <br>
+You need to create a view that can be viewed by all users in an organization. <br>
+Where should you create the view? <br>
+
+-   A. Advanced Find
+-   B. Entities component of a solution
+-   C. Microsoft Excel template
+-   D. System Settings
+
+<details>
+  <summary>Answer</summary>
+
+-   B. Entities component of a solution
+</details>
+
+---
+
+### Question - 40:
+
+You are designing the organization structure for a company that has 5,000 users. <br>
+You need to configure security roles for the company while minimizing administrative effort. <br>
+What should you do? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point. <br>
+Hot Area:
+
+![question-40](image-25.png)
+
+<details>
+  <summary>Answer</summary>
+
+-   Assign the security role to the default business unit team.
+-   Grant the user a security role from the child business unit
+</details>
+
+---
+
+### Question - 41:
+
+Your organization does not permit the use of custom code for solutions. <br>
+You need to create a view that can be viewed by all users in an organization. <br>
+Where should you create the view? <br>
+
+-   A. Microsoft Visual Studio
+-   B. Maker portal
+-   C. Advanced Find
+-   D. System Settings
+
+<details>
+  <summary>Answer</summary>
+
+-   B. Maker portal
+</details>
+
+---
+
+### Question - 42:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br>
+On a Contact record, a user creates a Note record that contains the word running. <br>
+One week later, the user reports that they cannot find the Contact record associated with the Note record. <br>
+You need to find the Note record. <br>
+Solution: Use Dataverse Search to search for the word run. <br>
+Does the solution meet the goal? <br>
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   A. Yes
+</details>
+
+---
+
+### Question - 43:
+
+You are using the Data import wizard to import records into the account table from a CSV file.
+The CSV-to-table mapping is as follows: <br>
+✑ The Name column represents the account name and maps to the Account Name column. <br>
+✑ The Parent Name column represents the holding company of the account with subsidiaries underneath. <br>
+Records that are imported into the table are only related to other records in the file. <br>
+You need to configure the import to create the relationship between records. <br>
+What should you do? <br>
+
+-   A. Map Parent Name in the CSV file to the Parent Account column. Select Account Name as the lookup criteria.
+-   B. Map Parent Name in the file to the Parent Account column. Select Parent Account as the lookup criteria.
+-   C. Create an alternate key on the account table by using the Account Name column. Do not map Parent Name in the file.
+-   D. Look up the record IDs of the records in the Parent Account column. Add the record IDs as a new column in the file. Map the new column to the Parent Account column.
+
+<details>
+  <summary>Answer</summary>
+
+-   A. Map Parent Name in the CSV file to the Parent Account column. Select Account Name as the lookup criteria.
+</details>
+
+---
+
+### Question - 44:
+
+A company has a sales application that is supported by an Azure SQL database. You are developing a Power Apps app for use by customer service agents. <br>
+The app must reference customer data from the sales application. Data in the sales application is constantly changing and must not be replicated in Microsoft Dataverse. <br>
+Some customer data is considered sensitive. You must protect data for specific fields when users view data in the app. <br>
+You need to configure table creation for the app. <br>
+How should you configure the app? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+![question-44](image-26.png)
+
+<details>
+  <summary>Answer</summary>
+
+1. Create a virtual table.
+2. Create a secured column
+ </details>
+
+---
+
+### Question - 45:
+
+A customer uses Power Apps to view and maintain their contacts that are stored in Microsoft Dataverse. <br>
+Several columns must be configured to ensure the security settings for sales associates are view only. <br>
+You need to configure the access restrictions. <br>
+Which component for field-level security should you use? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+![question-45](image-27.png)
+
+<details>
+  <summary>Answer</summary>
+
+1. PowerApps app designer
+2. Field security profiles
+ </details>
+
+---
+
+### Question - 46:
+
+You modify a model-driven app for a bicycle repair help desk. The model-driven app is for help desk users when customers have an issue with their bicycle. <br>
+After you add a custom table named bicycle, you configure the table for Microsoft Dataverse search. The table will contain information from callers about their bicycles. The account table is related to the custom table. Contact information is brought over to the custom table. <br>
+You add the following columns to the table: <br>
+✑ Bicycle type <br>
+✑ Tire brand <br>
+✑ Special equipment <br>
+Users must be able to perform the following types of searches: <br>
+✑ Search for all customers who have a bicycle type of Contoso and live in Florida. <br>
+✑ Search all tables for any record that contains the word broken. <br>
+You need to decide which type of search will give you the results desired. <br>
+Which search should you configure? To answer, drag the appropriate search types to the correct requirements. Each search type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
+NOTE: Each correct selection is worth one point. <br>
+
+![question-46](image-28.png)
+
+<details>
+  <summary>Answer</summary>
+
+![question-46](image-29.png)
+
+</details>
+
+---
+
+### Question - 47:
+
+You make the following customizations to a Microsoft Dataverse environment: <br>
+• Create a new table. <br>
+• Add data to the new table. <br>
+• Delete an unused area from the site map. <br>
+
+The components must be transported to a different environment. <br>
+You need to determine the method required to transport each component. <br>
+Which method should you use? To answer, drag the appropriate methods to the correct components. Each method may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
+
+![question-47](image-30.png)
+
+<details>
+  <summary>Answer</summary>
+
+1. Solution
+2. Configuration Migration tool
+3. Solution
+ </details>
+
+---
+
+### Question - 48:
+
+Your organization does not permit the use of custom code for solutions. <br>
+You need to create a view that can be viewed by all users in an organization. <br>
+Where should you create the view? <br>
+
+-   A. Microsoft Excel template
+-   B. Entities component of a solution
+-   C. Microsoft Virtual Studio
+-   D. Templates area
+
+<details>
+  <summary>Answer</summary>
+
+-   B. Entities component of a solution
+</details>
+
+---
+
+### Question - 49:
+
+A company plans to add another language to a Microsoft Dataverse environment. <br>
+Several components were added or modified in the environment. <br>
+You need to ensure that these components get translated. <br>
+Which method should you use? To answer, drag the appropriate methods to the correct component types. Each method may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
+NOTE: Each correct selection is worth one point.
+
+![question-49](image-31.png)
+
+<details>
+  <summary>Answer</summary>
+
+1. Export and import translations
+2. Separate component for each language
+3. Separate component for each language
+ </details>
+
+---
+
+### Question - 50:
+
+A company uses Power Apps. <br>
+Users must be able to view only the address1 columns in the Account table. <br>
+You need to ensure other address columns are not visible to users when creating views and filters. <br>
+What should you do? <br>
+
+-   A. Delete the other address columns from the table.
+-   B. Disable the Search option for the columns.
+-   C. Use column-level security to remove read access to all users.
+-   D. Create business rules to hide the other address columns.
+
+<details>
+  <summary>Answer</summary>
+
+-   C. Use column-level security to remove read access to all users.
+</details>
+
+---
