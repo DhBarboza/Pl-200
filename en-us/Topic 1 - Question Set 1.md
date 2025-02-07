@@ -5,12 +5,12 @@ You need to ensure that the owner can view the user audit logs.
 Where does each action need to be performed? To answer, select the appropriate options in the answer area.
 NOTE: Each correct selection is worth one point.
 
-![question-1](image-1.png)
+![question-1](./images/image-1.png)
 
 <details>
   <summary>Answer</summary>
   
-  ![question-1-answer](image-2.png)
+  ![question-1-answer](./images/image-2.png)
 </details>
 
 ### Question - 2:
@@ -58,12 +58,12 @@ You need to configure a workflow to meet the following requirements:
     You need to create a workflow that automatically sends emails based on a mail merge template. To answer, select the appropriate configuration in the answer area.
     NOTE: Each correct selection is worth one point.
 
-![question-4](image.png)
+![question-4](./images/image.png)
 
 <details>
   <summary>Answer</summary>
   
-  ![question-4-answer](image-3.png)
+  ![question-4-answer](./images/image-3.png)
 </details>
 
 ### Question - 5:
@@ -78,12 +78,12 @@ You need to configure the following automation for the sales team:
 Which tool should you use for each requirement? To answer, select the appropriate options in the answer area.
 NOTE: Each correct selection is worth one point.
 
-![question-5](image-4.png)
+![question-5](./images/image-4.png)
 
 <details>
   <summary>Answer</summary>
   
-  ![question-5-answer](image-5.png)
+  ![question-5-answer](./images/image-5.png)
 </details>
 
 ### Question - 6:
@@ -131,7 +131,7 @@ Users record Production instance data in the Sandbox instance.
 You need to ensure that the users only record data in the Production instance.<br/>
 Which security function needs to be edited to prevent access to the Sandbox? To answer, select the appropriate options in the answer area.<br/>
 NOTE: Each correct selection is worth one point.
-![question-8](image-6.png)
+![question-8](./images/image-6.png)
 
 <details>
   <summary>Answer</summary>
@@ -161,7 +161,7 @@ Which entity ownership type should you use?
 
 You need to ensure that there are no leads for a customer before you create a new opportunity for the customer.<br/>
 How can you use duplicate detection rules to achieve this goal? To answer, select the appropriate options in the answer area.<br/>
-![question-10](image-7.png)
+![question-10](./images/image-7.png)
 
 <details>
   <summary>Answer</summary>
@@ -255,12 +255,12 @@ You may need to drag the split bar between panes or scroll to view content. <br/
 NOTE: Each correct selection is worth one point. <br/>
 Select and Place:
 
-![question-15](image-8.png)
+![question-15](./images/image-8.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-15-answer](image-9.png)
+![question-15-answer](./images/image-9.png)
 
 </details>
 
@@ -268,17 +268,17 @@ Select and Place:
 
 You are designing an app for a bank. <br/>
 You must create entities for the app and configure relationships between entities: <br/>
-![question-16](image-10.png)
+![question-16](./images/image-10.png)
 Which relationship types should you use? To answer, drag the appropriate relationship types to the correct requirements. Each relationship type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br/>
 NOTE: Each correct selection is worth one point. <br/>
 Select and Place:
 
-![question-16](image-11.png)
+![question-16](./images/image-11.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-16-answer](image-12.png)
+![question-16-answer](./images/image-12.png)
 
 </details>
 
@@ -344,20 +344,20 @@ Does the solution meet the goal?
 ### Question - 20:
 
 You need to create a system chart for the Account entity.<br/>
-The chart must display a count of accounts grouped by owner and then display the accounts by Address 1: State/Province for each owner. You begin to configure chart options as shown in the image below.<br/>
+The chart must display a count of accounts grouped by owner and then display the accounts by Address 1: State/Province for each owner. You begin to configure chart options as shown in the ./images/image below.<br/>
 
-![question-20](image-13.png)
+![question-20](./images/image-13.png)
 
 How should you complete the configuration? To answer, select the appropriate options in the answer area. <br/>
 NOTE: Each correct selection is worth one point. The chart must display a count of accounts grouped by owner, and then display the accounts by Address 1 to <br/>
 State/Province for each owner. <br/>
 
-![question-20-1](image-14.png)
+![question-20-1](./images/image-14.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-20-answer](image-15.png)
+![question-20-answer](./images/image-15.png)
 
 </details>
 
@@ -390,7 +390,7 @@ You need to configure the solution to prevent the reported security incidents. <
 What should you do? To answer, select the appropriate options in the answer area. <br/>
 NOTE: Each correct selection is worth one point. <br/>
 
-![question-22](image-16.png)
+![question-22](./images/image-16.png)
 
 <details>
   <summary>Answer</summary>
@@ -408,12 +408,12 @@ You need to provide a solution for each requirement. <br>
 Which solutions should you provide? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-23](image-17.png)
+![question-23](./images/image-17.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-23-answer](image-18.png)
+![question-23-answer](./images/image-18.png)
 
 </details>
 
@@ -534,7 +534,7 @@ You need to determine how to apply the business logic. <br>
 Which method should you use? To answer, drag the appropriate methods to the appropriate business logic statements. Each method may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-29](image-19.png)
+![question-29](./images/image-19.png)
 
 <details>
   <summary>Answer</summary>
@@ -573,7 +573,7 @@ You need to embed information from other entities in the form and allow users to
 Which actions should you perform? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-31](image-20.png)
+![question-31](./images/image-20.png)
 
 <details>
   <summary>Answer</summary>
@@ -591,12 +591,12 @@ You need to restrict access to the app. <br>
 Which components should you configure? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-32](image-21.png)
+![question-32](./images/image-21.png)
 
 <details>
   <summary>Answer</summary>
 
-![answer-question-32](image-22.png)
+![answer-question-32](./images/image-22.png)
 
 </details>
 
@@ -649,7 +649,7 @@ You need to determine which team types meet the requirements. <br>
 Which team type should you use? To answer, drag the appropriate team types to the correct requirements. Each team type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-35](image-23.png)
+![question-35](./images/image-23.png)
 
 <details>
   <summary>Answer</summary>
@@ -689,7 +689,7 @@ You need to resolve issues that arise during testing. <br>
 What should you do? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-37](image-24.png)
+![question-37](./images/image-24.png)
 
 <details>
   <summary>Answer</summary>
@@ -751,7 +751,7 @@ What should you do? To answer, select the appropriate options in the answer area
 NOTE: Each correct selection is worth one point. <br>
 Hot Area:
 
-![question-40](image-25.png)
+![question-40](./images/image-25.png)
 
 <details>
   <summary>Answer</summary>
@@ -834,7 +834,7 @@ You need to configure table creation for the app. <br>
 How should you configure the app? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-44](image-26.png)
+![question-44](./images/image-26.png)
 
 <details>
   <summary>Answer</summary>
@@ -853,7 +853,7 @@ You need to configure the access restrictions. <br>
 Which component for field-level security should you use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-45](image-27.png)
+![question-45](./images/image-27.png)
 
 <details>
   <summary>Answer</summary>
@@ -879,12 +879,12 @@ You need to decide which type of search will give you the results desired. <br>
 Which search should you configure? To answer, drag the appropriate search types to the correct requirements. Each search type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-46](image-28.png)
+![question-46](./images/image-28.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-46](image-29.png)
+![question-46](./images/image-29.png)
 
 </details>
 
@@ -901,7 +901,7 @@ The components must be transported to a different environment. <br>
 You need to determine the method required to transport each component. <br>
 Which method should you use? To answer, drag the appropriate methods to the correct components. Each method may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 
-![question-47](image-30.png)
+![question-47](./images/image-30.png)
 
 <details>
   <summary>Answer</summary>
@@ -940,7 +940,7 @@ You need to ensure that these components get translated. <br>
 Which method should you use? To answer, drag the appropriate methods to the correct component types. Each method may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-49](image-31.png)
+![question-49](./images/image-31.png)
 
 <details>
   <summary>Answer</summary>
@@ -980,7 +980,7 @@ You need to configure the cascading rules for each action. <Br>
 Which behavior should you use? To answer, drag the appropriate behaviors to the correct actions. Each behavior may be used once, more than once, or not at all. You may need to <Br>
 drag the split bar between panes or scroll to view content. <Br>
 
-![question-51](image-32.png)
+![question-51](./images/image-32.png)
 
 <details>
   <summary>Answer</summary>
@@ -1065,12 +1065,12 @@ Users need to add an alternate phone number when entering their account informat
 You need to enable the required features. <br>
 Which features should you use? To answer, drag the appropriate features to the correct requirements. Each feature may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 
-![question-55](image-33.png)
+![question-55](./images/image-33.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-55-answer](image-34.png)
+![question-55-answer](./images/image-34.png)
 
 </details>
 
@@ -1092,7 +1092,7 @@ You need to implement the form. <br>
 What should you configure? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-56](image-35.png)
+![question-56](./images/image-35.png)
 
 <details>
   <summary>Answer</summary>
@@ -1113,12 +1113,12 @@ Users report the following issues when viewing the audit logs: <br>
 You need to troubleshoot the issues. <br>
 What are the causes of the issues? To answer, select the appropriate options in the answer area. <br>
 
-![question-57](image-36.png)
+![question-57](./images/image-36.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-57-answer](image-37.png)
+![question-57-answer](./images/image-37.png)
 
 </details>
 
@@ -1129,17 +1129,17 @@ What are the causes of the issues? To answer, select the appropriate options in 
 A company is implementing a data model by using Dataverse. <br>
 The company requires the following columns in a new custom table: <br>
 
-![question-58](image-38.png)
+![question-58](./images/image-38.png)
 
 You need to choose the column type that uses the least amount of database storage for each column. <br>
 Which column types should you choose? To answer, select the appropriate options in the answer area. <br>
 
-![question-58](image-39.png)
+![question-58](./images/image-39.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-58-answer](image-40.png)
+![question-58-answer](./images/image-40.png)
 
 </details>
 
@@ -1156,7 +1156,7 @@ The company has the following requirements: <br>
 You need to configure a solution for each requirement. <br>
 What should you use? To answer, select the appropriate options in the answer area. <br>
 
-![question-60](image-41.png)
+![question-60](./images/image-41.png)
 
 <details>
     <summary>Answer</summary>
@@ -1341,12 +1341,12 @@ You need to configure the cascading rules for each action. <br>
 Which behavior should you use? To answer, drag the appropriate behaviors to the correct actions. Each behavior may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-67](image-42.png)
+![question-67](./images/image-42.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-67-answer](image-43.png)
+![question-67-answer](./images/image-43.png)
 
 </details>
 
