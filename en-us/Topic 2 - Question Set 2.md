@@ -4,13 +4,13 @@ You create an app to manage customer service cases. <br>
 Cases entered in forms require different types of data to be stored in different types of columns. <br>
 You need to create forms for each of the following case types: <br>
 
-![question-1](image.png)
+![question-1](./topic-2-images/image.png)
 
 Which form types should you create? To answer, drag the appropriate form types to the meet the data entry requirements. Each source may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 Select and Place: <br>
 
-![question-1](image-1.png)
+![question-1](./topic-2-images/image-1.png)
 
 <details>
   <summary>Answer</summary>
@@ -34,7 +34,7 @@ Which actions should the salesperson perform? To answer, drag the appropriate ac
 NOTE: Each correct selection is worth one point. <br>
 Select and Place: <br>
 
-![question-2](image-2.png)
+![question-2](./topic-2-images/image-2.png)
 
 <details>
   <summary>Answer</summary>
@@ -57,7 +57,7 @@ Which actions can you perform? To answer, select the appropriate options in the 
 NOTE: Each correct selection is worth one point. <br>
 Hot Area: <br>
 
-![question-3](image-3.png)
+![question-3](./topic-2-images/image-3.png)
 
 <details>
   <summary>Answer</summary>
@@ -83,12 +83,12 @@ Which components should you use? To answer, drag the appropriate components to t
 NOTE: Each correct selection is worth one point. <br>
 Select and Place: <br>
 
-![question-4](image-4.png)
+![question-4](./topic-2-images/image-4.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-4-answer](image-5.png)
+![question-4-answer](./topic-2-images/image-5.png)
 
  </details>
 
@@ -120,12 +120,12 @@ You need to configure the app to meet the requirements and ensure that the canva
 What should you implement? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-6](image-6.png)
+![question-6](./topic-2-images/image-6.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-6-answer](image-7.png)
+![question-6-answer](./topic-2-images/image-7.png)
 
  </details>
 
@@ -160,12 +160,12 @@ Collect(People, {Id:Id.Text, FirstName:FirstName.Text, LastName:LastName.Text}) 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-8](image-8.png)
+![question-8](./topic-2-images/image-8.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-8-answer](image-9.png)
+![question-8-answer](./topic-2-images/image-9.png)
 
 </details>
 
@@ -179,12 +179,12 @@ You need to create the dashboard for the user. <br>
 Which components should you use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-9](image-10.png)
+![question-9](i./topic-2-images/mage-10.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-9-answer](image-11.png)
+![question-9-answer](i./topic-2-images/mage-11.png)
 
 </details>
 
@@ -320,7 +320,7 @@ Set(AgeGroups, ["1-25", "26-54", "55+"]) <br>
 For each of the following statements, select Yes if the statement is true. Otherwise, select No. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-16](image-12.png)
+![question-16](i./topic-2-images/mage-12.png)
 
 <details>
   <summary>Answer</summary>
@@ -359,12 +359,12 @@ You need to create the site map for the app. <br>
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 Select and Place: <br>
 
-![question-18](image-13.png)
+![question-18](i./topic-2-images/mage-13.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-18-answer](image-14.png)
+![question-18-answer](i./topic-2-images/mage-14.png)
 
 </details>
 
@@ -421,12 +421,12 @@ You need to configure user authentication and permissions. <br>
 Which component should you use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-21](image-15.png)
+![question-21](i./topic-2-images/mage-15.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-21-answer](image-16.png)
+![question-21-answer](i./topic-2-images/mage-16.png)
 
 </details>
 
@@ -441,12 +441,12 @@ Which option should you use? To answer, drag the appropriate options to the corr
 You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-22](image-17.png)
+![question-22](i./topic-2-images/mage-17.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-22-answer](image-18.png)
+![question-22-answer](i./topic-2-images/mage-18.png)
 
 </details>
 
@@ -481,7 +481,7 @@ You need to configure authentication for the home page. <br>
 Which values should you use? To answer, drag the appropriate values to the appropriate authentication settings. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-24](image-19.png)
+![question-24](i./topic-2-images/mage-19.png)
 
 <details>
   <summary>Answer</summary>
@@ -501,12 +501,12 @@ The theme must meet the following requirements: <br>
 You need to configure the assets. To answer, drag the appropriate configurations to the correct requirements. Each configuration may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-25](image-20.png)
+![question-25](i./topic-2-images/mage-20.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-25-answer](image-21.png)
+![question-25-answer](i./topic-2-images/mage-21.png)
 
 </details>
 
@@ -546,12 +546,12 @@ The solution must meet the following requirements: <br>
 You need to configure the solution. <br>
 What should you configure? To answer, select the appropriate options in the answer area. <br>
 
-![question-27](image-22.png)
+![question-27](i./topic-2-images/mage-22.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-27-answer](image-23.png)
+![question-27-answer](i./topic-2-images/mage-23.png)
 
 </details>
 
@@ -566,12 +566,12 @@ You need to configure the scope for the business rules. <br>
 Which scope should you use? To answer, drag the appropriate scopes to the correct business rules. Each scope may be used once, more than once, or not at all. <br>
 You may need to drag the split bar between panes or scroll to view content. <br>
 
-![question-28](image-24.png)
+![question-28](i./topic-2-images/mage-24.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-28-answer](image-25.png)
+![question-28-answer](i./topic-2-images/mage-25.png)
 
 </details>
 
@@ -587,12 +587,12 @@ You need to configure the automated processes. <br>
 What should you configure? To answer, drag the appropriate configurations to the correct requirements. Each configuration may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-29](image-26.png)
+![question-29](i./topic-2-images/mage-26.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-29-answer](image-27.png)
+![question-29-answer](i./topic-2-images/mage-27.png)
 
 </details>
 
@@ -691,12 +691,12 @@ The app requires access to data that is stored in collections. The app must prov
 You need to configure functions for the app. <br>
 Which functions should you use? To answer, select the appropriate options in the answer area.
 
-![question-34](image-28.png)
+![question-34](i./topic-2-images/mage-28.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-34-answer](image-29.png)
+![question-34-answer](i./topic-2-images/mage-29.png)
 
 </details>
 
@@ -709,7 +709,7 @@ The company plans to make the app available in Microsoft Teams. Only employees w
 You need to add the app to Teams. <br>
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 
-![question-35](image-30.png)
+![question-35](i./topic-2-images/mage-30.png)
 
 <details>
   <summary>Answer</summary>
@@ -729,12 +729,12 @@ Users require access to the app and the app data. <br>
 You need to configure access. <br>
 What should you do? To answer, select the appropriate options in the answer area. <br>
 
-![question-36](image-31.png)
+![question-36](i./topic-2-images/mage-31.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-36-answer](image-32.png)
+![question-36-answer](i./topic-2-images/mage-32.png)
 
 </details>
 
@@ -752,12 +752,12 @@ In addition, custom development work must be minimized. <br>
 You need to identify the appropriate Power Pages templates to use. <br>
 Which templates should you use? To answer, drag the appropriate templates to the correct requirements. Each template may be used once, more than once, or not at all. You may need to drag the split between panes or scroll to view content. <br>
 
-![question-37](image-33.png)
+![question-37](i./topic-2-images/mage-33.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-37-answer](image-34.png)
+![question-37-answer](i./topic-2-images/mage-34.png)
 
 </details>
 
@@ -768,7 +768,7 @@ Which templates should you use? To answer, drag the appropriate templates to the
 You are modifying a model-driven app. You set up a customer table in Microsoft Power Platform to retrieve user data. <br>
 You set up a form with the following columns for users to enter their data. The form includes the following columns: <br>
 
-![question-38](image-35.png)
+![question-38](i./topic-2-images/mage-35.png)
 
 The form must do the following: <br>
 • The Country/region column must automatically populate with US when English is chosen as a language. If the user selects Other for this column, the column must remain blank so that user can enter a value. <br>
@@ -780,7 +780,7 @@ What should you configure? To answer, drag the appropriate solution component to
 <details>
   <summary>Answer</summary>
 
-![question-38-answer](image-36.png)
+![question-38-answer](i./topic-2-images/mage-36.png)
 
 </details>
 
@@ -819,7 +819,7 @@ The app needs to store temporary data while the app is running. The app has the 
 You need to configure variables for the data. <br>
 Which variable types should you use? To answer, drag the appropriate variable types to the correct requirements. Each variable type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 
-![question-40](image-37.png)
+![question-40](i./topic-2-images/mage-37.png)
 
 <details>
   <summary>Answer</summary>
@@ -841,7 +841,7 @@ The app must meet the following requirements: <br>
 You need to configure the app. <br>
 Which features should you use? To answer, select the appropriate options in the answer area. <br>
 
-![question-41](image-38.png)
+![question-41](i./topic-2-images/mage-38.png)
 
 <details>
   <summary>Answer</summary>
@@ -859,7 +859,7 @@ One of the applications requires a custom control layout without using code. The
 You need to create the applications. <br>
 Which application types should you use? To answer, drag the appropriate application types to the correct requirements. Each application type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 
-![question-42](image-39.png)
+![question-42](i./topic-2-images/mage-39.png)
 
 <details>
   <summary>Answer</summary>
@@ -978,12 +978,12 @@ Where should you view this information? <br>
 
 Which permissions must you set? To answer, move the appropriate permissions to the correct page. You may use each permission once, more than once, or not at all. You may need to move the split bar between panes or scroll to view content.
 
-![question-45](image-40.png)
+![question-45](i./topic-2-images/mage-40.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-45-answer](image-41.png)
+![question-45-answer](i./topic-2-images/mage-41.png)
 
 </details>
 
@@ -995,12 +995,12 @@ You need to create forms required for the registration team and assistants. <br>
 
 Which form types should you create? To answer, move the appropriate form types to the correct roles. You may use each form type once, more than once, or not at all. You may need to move the split bar between panes or scroll to view content. <br>
 
-![question-46](image-42.png)
+![question-46](i./topic-2-images/mage-42.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-46-answer](image-43.png)
+![question-46-answer](i./topic-2-images/mage-43.png)
 
 </details>
 
@@ -1012,12 +1012,12 @@ You need to configure the Total field on the Evaluation form. <br>
 
 Which property should you select for the formula? To answer, move the appropriate property to the correct formula. You may use each property once, more than once, or not at all. You may need to move the split bar between panes or scroll to view content. <br>
 
-![question-47](image-44.png)
+![question-47](i./topic-2-images/mage-44.png)
 
 <details>
   <summary>Answer</summary>
 
-![question-47-answer](image-45.png)
+![question-47-answer](i./topic-2-images/mage-45.png)
 
 </details>
 
@@ -1058,6 +1058,286 @@ Where should you create the package? <br>
   <summary>Answer</summary>
 
 -   D. Power Apps maker portal
+
+</details>
+
+---
+
+### Question - 50:
+
+You are building a model-driven app for a company. <br>
+You identify several custom commands that the app must support, including the following commands: <br>
+• Save a row. <br>
+• Move the user to a different row in the application. <br>
+• Navigate the user to an external webpage. <br>
+• Show a notification that the user can accept or decline. <br>
+
+You need to identify the formula to use for each requirement. <br>
+Which formulas should you identify? To answer, select the appropriate options in the answer area. <br>
+
+![question-50](i./topic-2-images/mage-46.png)
+
+<details>
+  <summary>Answer</summary>
+
+![question-50](i./topic-2-images/mage-47.png)
+
+</details>
+
+---
+
+### Question - 51:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br>
+You are building a Power Pages site for a supermarket chain. <br>
+The company plans to have the managers of individual stores use the site. Managers will authenticate on the site each week by using their corporate identity to update stock information for their store. Managers must be able to add and update stock information for their store only. <br>
+You need to configure the site security. <br>
+Solution: Configure table permissions. <br>
+Does the solution meet the goal? <br>
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   B. No
+
+</details>
+
+---
+
+### Question - 52:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br>
+You are building a Power Pages site for a supermarket chain. <br>
+The company plans to have the managers of individual stores use the site. Managers will authenticate on the site each week by using their corporate identity to update stock information for their store. Managers must be able to add and update stock information for their store only. <br>
+You need to configure the site security. <br>
+Solution: Use local authentication. <br>
+Does the solution meet the goal?
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   B. No
+
+</details>
+
+---
+
+### Question - 53:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br>
+You are building a Power Pages site for a supermarket chain. <br>
+The company plans to have the managers of individual stores use the site. Managers will authenticate on the site each week by using their corporate identity to update stock information for their store. Managers must be able to add and update stock information for their store only. <br>
+You need to configure the site security. <br>
+Solution: Use Microsoft Entra ID authentication. <br>
+Does the solution meet the goal?
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+-   A. Yes
+
+</details>
+
+---
+
+### Question - 54:
+
+Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. <br>
+After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. <br>
+You are building a Power Pages site for a supermarket chain. <br>
+The company plans to have the managers of individual stores use the site. Managers will authenticate on the site each week by using their corporate identity to update stock information for their store. Managers must be able to add and update stock information for their store only. <br>
+You need to configure the site security. <br>
+Solution: Configure page permissions. <br>
+Does the solution meet the goal?
+
+-   A. Yes
+-   B. No
+
+<details>
+  <summary>Answer</summary>
+
+</details>
+
+---
+
+## **Study-Case-2:**
+
+Case Study - <br>
+
+This is a case study. Case studies are not timed separately. You can use as much exam time as you would like to complete each case. However, there may be additional case studies and sections on this exam. You must manage your time to ensure that you are able to complete all questions included on this exam in the time provided. <br>
+
+To answer the questions included in a case study, you will need to reference information that is provided in the case study. Case studies might contain exhibits and other resources that provide more information about the scenario that is described in the case study. Each question is independent of the other questions in this case study. <br>
+
+At the end of this case study, a review screen will appear. This screen allows you to review your answers and to make changes before you move to the next section of the exam. After you begin a new section, you cannot return to this section. <br>
+
+To start the case study - <br>
+To display the first question in this case study, click the Next button. Use the buttons in the left pane to explore the content of the case study before you answer the questions. Clicking these buttons displays information such as business requirements, existing environment, and problem statements. If the case study has an All Information tab, note that the information displayed is identical to the information displayed on the subsequent tabs. When you are ready to answer a question, click the Question button to return to the question.
+
+Background - <br>
+Contoso Suites is an animal shelter that specializes in finding homes for dogs that have been given up by their owners. The shelter can house up to 20 dogs. <br>
+The shelter is implementing one model-driven Power Apps app to track the dogs and schedule meetings with potential adopters. No other apps will be created. <br>
+The model-driven app uses Dataverse with out-of-the-box functionality when possible. Dataverse is set up with the following configuration: <br>
+
+-   The solution prefix “cs” is used for all new components.
+-   Only the root business unit is used.
+-   All tables are stored in Dataverse and do not require rapid scaling.
+-   Exchange server-side sync is not configured.
+
+Adopters -
+
+-   Adopter information is stored in a Contact table.
+-   Contacts are considered to be duplicates if they have the same email address and last name.
+-   Adopters are often late to meetings, so a reminder email is sent to them two hours before their meeting.
+-   The email reminders must not be tracked in the system.
+
+Dogs -
+
+-   Dog information is stored in a Dog table, which is organization owned.
+-   Breed, size, and weight are fields in the table.
+
+Dog residency -
+
+-   A Resident table tracks the stay of each dog.
+-   Each resident record has a lookup for the dog and its food.
+-   The food type and amount are logged on each resident record. Auto-posting is not configured for changes to food type and amount.
+-   A fee of $120 is in a currency column named Adoption Fee. This fee can be changed depending on the adoption circumstances.
+-   A formula column named Deposit is automatically populated with 20% of the adoption fee.
+-   A resident record is generated automatically when a dog record is created. This is the only way a resident record can be created.
+
+Exercise and feedings -
+
+-   Exercise for the dogs is tracked in an Exercise table.
+-   Feedings are tracked in a Feeding table.
+-   Exercise and feeding records appear in a resident record timeline.
+
+Care staff -
+
+-   The care staff must be able to view who changed the food type and the amount that was given, for up to three months ago.
+-   The staff must be able to update the weight of a dog on the resident record.
+-   The staff report that the buttons are too small on the touch screen they use to log exercise and feeding.
+-   The staff must be able to view who the adopters are for upcoming meetings. The staff must not be able to update adopter information.
+
+Administrative staff -
+
+-   Administrative staff must receive a weekly list of duplicate contacts. Duplicate alerts must not appear when a staff member saves a new contact.
+-   When an adopter wants to adopt a dog, the staff must perform a series of adoption duties in order. The following duty list must be displayed on the screen: o Commitment:
+-   Obtain adopter signature in a commitment document.
+-   Collect deposit.
+    o Pre-pickup: <br>
+-   Document spay or neutering date.
+-   Perform spay or neutering.
+-   Document pickup date.
+    o Pickup: <br> b
+-   Collect full payment.
+-   Verify dog is picked up.
+    o A dog must be picked up no sooner than two days after spaying or neutering. o A pop-up window must appear with an error message if the Pickup date is too soon. o Only administrative staff must be able to add new adopters and dogs.
+
+### Question - 55 (Study-case-2):
+
+You need to improve the user experience for the care staff to log exercise and feeding. <br>
+What should you create? <br>
+
+-   A. Custom page in a model-driven app
+-   B. Model-driven app form
+-   C. Power BI report
+-   D. Canvas app
+
+<details>
+  <summary>Answer</summary>
+
+-   D. Canvas app
+
+</details>
+
+---
+
+### Question - 56 (Study-case-2):
+
+You need to enable the care staff to update a dog's weight. <br>
+
+Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
+
+![question-56](i./topic-2-images/mage-48.png)
+
+<details>
+  <summary>Answer</summary>
+
+![question-56](i./topic-2-images/mage-49.png)
+
+</details>
+
+---
+
+### Question - 57:
+
+You are building a model-driven app. The environment has Advanced settings enabled. <br>
+A form in the app requires a custom interface. <br>
+You need to embed the custom interface onto the form without using custom code. <br>
+What should you do?
+
+-   A. Modify the model-driven app to use mobile form factor.
+-   B. Modify the model-driven app to use tablet form factor.
+-   C. Create an HTML web resource.
+-   D. Use the classic experience to add a canvas app.
+
+<details>
+  <summary>Answer</summary>
+
+-   D. Use the classic experience to add a canvas app.
+
+</details>
+
+---
+
+### Question - 58:
+
+A company is implementing Microsoft Power Platform solutions. <br>
+The company requests information on the features that are supported by Power Fx. <br>
+You need to identify the features of Power Fx. <br>
+What should you identify?
+
+-   A. It is available for purchase through a Microsoft reseller.
+-   B. It uses a plug-in.
+-   C. It uses imperative and declarative logic.
+-   D. It uses synchronous data operations.
+
+<details>
+  <summary>Answer</summary>
+
+-   C. It uses imperative and declarative logic.
+
+</details>
+
+---
+
+### Question - 59:
+
+You are building a model-driven app. The environment has Advanced settings enabled. <br>
+A form in the app requires a custom interface. <br>
+You need to embed the custom interface onto the form without using custom code. <br>
+What should you do?
+
+-   A. Create a canvas app and bind its properties to the form.
+-   B. Modify the model-driven app to use tablet form factor.
+-   C. Use an IFRAME.
+-   D. Create a quick view form.
+
+<details>
+  <summary>Answer</summary>
+
+-   A. Create a canvas app and bind its properties to the form.
 
 </details>
 
