@@ -30,7 +30,7 @@ You need to prepare data for transfer to Microsoft SharePoint list. <br>
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 Select and Place: <br>
 
-![question-2](image.png)
+![question-2](./topic-3-images/image.png)
 
 <details>
     <summary>Answer</summary>
@@ -53,7 +53,7 @@ You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 Select and Place: <br>
 
-![question-3](image-1.png)
+![question-3](./topic-3-images/image-1.png)
 
 <details>
     <summary>Answer</summary>
@@ -94,7 +94,7 @@ Which components should you recommend? To answer, drag the appropriate component
 NOTE: Each correct selection is worth one point. <br>
 Select and Place: <br>
 
-![question-5](image-2.png)
+![question-5](./topic-3-images/image-2.png)
 
 <details>
     <summary>Answer</summary>
@@ -116,7 +116,7 @@ You need to create a workflow that automatically sends emails based on a mail me
 To answer, select the appropriate configuration in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-6](image-3.png)
+![question-6](./topic-3-images/image-3.png)
 
 <details>
     <summary>Answer</summary>
@@ -160,12 +160,12 @@ You need to recommend the types of flows that the company should use. <br>
 Which flow type should you recommend? To answer, drag the appropriate flow types to the correct tasks. Each flow type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-8](image-4.png)
+![question-8](./topic-3-images/image-4.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-8](image-5.png)
+![question-8](./topic-3-images/image-5.png)
 
 </details>
 
@@ -176,7 +176,7 @@ NOTE: Each correct selection is worth one point. <br>
 A company is creating a business process flow in Power Automate to analyze the probability that a customer will buy a specific product. <br>
 The company uses ratings from zero to one hundred. The company assigns likelihoods based on the following table: <br>
 
-![question-9](image-6.png)
+![question-9](./topic-3-images/image-6.png)
 
 You need to define the business process steps. All logic must be included in a single evaluation statement. <br>
 Which step should you use? To answer, drag the appropriate steps to the correct ratings. Each step may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
@@ -200,12 +200,12 @@ You need to help end users understand which actions to take next and ensure that
 Which actions should you perform? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-10](image-7.png)
+![question-10](./topic-3-images/image-7.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-10](image-8.png)
+![question-10](./topic-3-images/image-8.png)
 
 </details>
 
@@ -219,7 +219,7 @@ You need to create a connection to the Twitter service and build a solution. <br
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 Select and Place:
 
-![question-11](image-9.png)
+![question-11](./topic-3-images/image-9.png)
 
 <details>
     <summary>Answer</summary>
@@ -346,12 +346,12 @@ How should you complete the filter condition? To answer, select the appropriate 
 NOTE: Each correct selection is worth one point. <br>
 Hot Area:
 
-![question-17](image-10.png)
+![question-17](./topic-3-images/image-10.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-17](image-11.png)
+![question-17](./topic-3-images/image-11.png)
 
 </details>
 
@@ -386,7 +386,7 @@ Which command should you use? To answer, select the appropriate options in the a
 NOTE: Each correct selection is worth one point. <br>
 Hot Area:
 
-![question-19](image-12.png)
+![question-19](./topic-3-images/image-12.png)
 
 <details>
     <summary>Answer</summary>
@@ -424,19 +424,19 @@ What should you recommend? <br>
 
 A company plans to automate the following manual processes by using Power Automate. <br>
 
-![question-21](image-13.png)
+![question-21](./topic-3-images/image-13.png)
 
 You need to identify UI flow types for the two business processes. <br>
 Which desktop flow type should you use? To answer, drag the appropriate desktop flow types to the correct business processes. Each desktop flow type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 Select and Place: <br>
 
-![question-21](image-14.png)
+![question-21](./topic-3-images/image-14.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-21](image-15.png)
+![question-21](./topic-3-images/image-15.png)
 
 </details>
 
@@ -453,12 +453,12 @@ You need to set up business process flow. <br>
 What should you do? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-22](image-16.png)
+![question-22](./topic-3-images/image-16.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-22](image-17.png)
+![question-22](./topic-3-images/image-17.png)
 
 </details>
 
@@ -475,12 +475,12 @@ You need to configure processes for the app without using code. <br>
 Which processes should you use? To answer, drag the appropriate processes to the correct requirements. Each process may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-23](image-18.png)
+![question-23](./topic-3-images/image-18.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-23](image-19.png)
+![question-23](./topic-3-images/image-19.png)
 
 </details>
 
@@ -543,12 +543,12 @@ You need to configure the model-driven app. <br>
 Which components should you use? To answer, drag the appropriate components to the requirements. Each component may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-26](image-20.png)
+![question-26](./topic-3-images/image-20.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-26](image-21.png)
+![question-26](./topic-3-images/image-21.png)
 
 </details>
 
@@ -694,7 +694,7 @@ Customers report that they do not receive an email after entering an email addre
 You need to troubleshoot the issue. <br>
 In which order should you perform the actions? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![question-33](image-22.png)
+![question-33](./topic-3-images/image-22.png)
 
 <details>
     <summary>Answer</summary>
@@ -720,12 +720,12 @@ You need to configure the check conditions for the workflow. <br>
 Which value should you use for each condition? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-34](image-23.png)
+![question-34](./topic-3-images/image-23.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-34](image-24.png)
+![question-34](./topic-3-images/image-24.png)
 
 </details>
 
@@ -743,7 +743,7 @@ You need to implement the process automation. <br>
 What is the minimum number of workflows you should use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-35](image-25.png)
+![question-35](./topic-3-images/image-25.png)
 
 <details>
     <summary>Answer</summary>
@@ -784,7 +784,7 @@ The maintenance manager wants to automate the email process when a new maintenan
 You need to build a Power Automate flow to automate the email process. <br>
 Which three components should you add to the flow in sequence? To answer, move the appropriate components from the list of components to the answer area and arrange them in the correct order.
 
-![question-37](image-26.png)
+![question-37](./topic-3-images/image-26.png)
 
 <details>
     <summary>Answer</summary>
@@ -869,12 +869,12 @@ Evaluations - <br>
 You need to create a filter for the Underage Prospects view. <br>
 How should you set up the expression for the filter? To answer, select the appropriate options in the answer area. <br>
 
-![question-38](image-27.png)
+![question-38](./topic-3-images/image-27.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-38](image-28.png)
+![question-38](./topic-3-images/image-28.png)
 
 </details>
 
@@ -886,12 +886,12 @@ You need to create a flow to send an email to the primary contacts. <br>
 Which action should you configure? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-39](image-29.png)
+![question-39](./topic-3-images/image-29.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-39](image-30.png)
+![question-39](./topic-3-images/image-30.png)
 
 </details>
 
@@ -909,7 +909,7 @@ The automations must meet the following requirements: <br>
 You need to configure the actions. <br>
 Which actions should you configure? To answer, move the appropriate actions to the correct requirements. You may use each action once, more than once, or not at all. You may need to move the split bar between panes or scroll to view content.
 
-![question-40](image-31.png)
+![question-40](./topic-3-images/image-31.png)
 
 <details>
     <summary>Answer</summary>
@@ -931,7 +931,7 @@ You need to implement a solution that automates the steps. <br>
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 NOTE: More than one order of answer choices is correct. You will receive credit for any of the correct orders you select.
 
-![question-41](image-32.png)
+![question-41](./topic-3-images/image-32.png)
 
 <details>
     <summary>Answer</summary>
@@ -1070,7 +1070,7 @@ You need to implement the logic. <br>
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 NOTE: More than one order of answer choices is correct. You will receive credit for any of the correct orders you select. <br>
 
-![question-43](image-33.png)
+![question-43](./topic-3-images/image-33.png)
 
 <details>
     <summary>Answer</summary>
@@ -1285,12 +1285,12 @@ You need to ensure that an appropriate date is selected for dog pickup. <br>
 What should you configure? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-50](image-34.png)
+![question-50](./topic-3-images/image-34.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-50](image-35.png)
+![question-50](./topic-3-images/image-35.png)
 
 </details>
 
@@ -1308,12 +1308,12 @@ You need to configure the check conditions for the workflow. <br>
 Which value should you use for each condition? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-51](image-36.png)
+![question-51](./topic-3-images/image-36.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-51](image-37.png)
+![question-51](./topic-3-images/image-37.png)
 
 </details>
 
