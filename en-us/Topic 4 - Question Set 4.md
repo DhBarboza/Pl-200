@@ -686,3 +686,190 @@ NOTE: Each correct selection is worth one point.
 </details>
 
 ---
+
+### **Study-Case-1**
+
+This is a case study. Case studies are not timed separately. You can use as much exam time as you would like to complete each case. However, there may be additional case studies and sections on this exam. You must manage your time to ensure that you are able to complete all questions included on this exam in the time provided. <br>
+
+To answer the questions included in a case study, you will need to reference information that is provided in the case study. Case studies might contain exhibits and other resources that provide more information about the scenario that is described in the case study. Each question is independent of the other questions in this case study. <br>
+
+At the end of this case study, a review screen will appear. This screen allows you to review your answers and to make changes before you move to the next section of the exam. After you begin a new section, you cannot return to this section. <br>
+
+**To start the case study -**
+To display the first question in this case study, click the Next button. Use the buttons in the left pane to explore the content of the case study before you answer the questions. Clicking these buttons displays information such as business requirements, existing environment, and problem statements. If the case study has an All Information tab, note that the information displayed is identical to the information displayed on the subsequent tabs. When you are ready to answer a question, click the Question button to return to the question.
+
+**Background -** <br>
+Bellows College is a post-secondary school that wants to start a football team. The college uses Microsoft Power Platform to manage its recruiting efforts. The registration team and assistants use model-driven apps. The coaches use canvas apps on their mobile devices. <br>
+
+Prospects are considered underage if they are younger than 18 years old at the time of registration. <br>
+
+#### **Current environment -**
+
+**Environment -**
+
+-   Custom code is not allowed in the system.
+-   Server-side synchronization is configured for emails, appointments, contacts, and tasks.
+-   The database and file storage of Dataverse must be minimized to keep costs low.
+
+**Contact table -**
+
+-   Birthdate is a custom date and time field.
+-   Age at Registration is a calculated field that displays the age of the prospect at the time of registration.
+-   Current Age is a calculated field that displays the age of the prospect based on the current date and time.
+
+**Evaluation table -**
+
+-   The Evaluation table is a custom table used to track evaluation criteria.
+-   Evaluation records cannot be manually created.
+-   Users must not be able to continue until an evaluation record is created automatically for the prospect.
+
+**Consent table -**
+
+-   The consent forms completed by the parents are stored as records in the Consent table.
+-   Occasionally, a parent cannot complete the consent online and a paper copy must be printed. The signed copy must be scanned and stored with the consent record.
+
+**Team website -**
+
+-   The team website is created by using Power Pages.
+-   A starter layout template was used to create the site.
+-   The site consists of five pages:
+    -   Home: A page open to everyone to view the announcements from the team.
+    -   Schedule: A page open to everyone to view the tryout and game schedule.
+    -   Evaluations: A page that displays tracking from the evaluation table. Prospects are able to view their own information only.
+    -   Forms: A page that displays the consent form.
+    -   Contact Us: A page for anyone to submit questions and comments.
+-   Two web roles for authenticated users are created: Primary Contact User and Prospect User.
+    -   All primary contacts and prospects are assigned to their respective roles.
+
+#### **Requirements -**
+
+**Registration -**
+
+-   Parents and prospects are created as contacts and must be linked.
+-   The registration team must be able to rapidly create prospects without navigating away from the Parents form. Only the First Name, Last Name, and Birthdate fields should be displayed for the team.
+-   Assistants must be able to update prospect information and add teams that the prospect has previously played on to a subgrid.
+
+**Parental consent -**
+
+-   When a prospect is underage, a Primary Contact field will appear. The field must be populated before the prospect record can be saved.
+-   A view named Underage Prospects that lists all underaged prospects is required.
+-   The Underage Prospects view must run once a week without requiring modifications to display correct information.
+    -   A consent email must meet the following requirements:
+    -   be sent to the primary contact of each new underage prospect
+    -   contain a link to the team website
+    -   be automatically sent weekly and tracked to the contact record in Dataverse
+    -   include the current date using the full month name, date, and year
+
+**Evaluations -**
+
+-   Coaches rate prospects each day on a scale of 1-10 in three categories: endurance, coordination, and skill.
+-   The total of the three categories is displayed at the bottom of the form. If the total for the day is greater than 25, the number should appear green.
+
+### Question - 32:
+
+You need to configure the Primary Contact field. <br>
+What should you configure? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point.
+
+![question-32](image-19.png)
+
+<details>
+    <summary>Answer</summary>
+
+1. Data Type: Lookup
+2. Visibility: Business rule where the Set Visibility action is Yes
+3. Requirement: Business rule where the Business Required action is Business Required
+
+</details>
+
+---
+
+### Question - 33:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
+
+### Question - 34:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
+
+### Question - 35:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
+
+### Question - 36:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
+
+### Question - 37:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
+
+### Question - 38:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
+
+### Question - 39:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
+
+### Question - 40:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
+
+### Question - 41:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
+
+### Question - 42:
+
+<details>
+    <summary>Answer</summary>
+
+</details>
+
+---
