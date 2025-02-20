@@ -463,7 +463,128 @@ Which component should you use?
 
 ---
 
-### Question - 1:
+### Question - 22:
+
+A company plans to implement a voice-enabled Power Virtual Agents bot. <br>
+The company has the following requirements for the bot: <br>
+• Recognize when a caller states Tennis or any variation of the word. <br>
+• Provide options when a caller states the name of a sport. <br>
+
+You need to configure the bot. <br>
+Which features should you use? To answer, select the appropriate options in the answer area.
+
+![question-22](image-11.png)
+
+<details>
+    <summary>Answer</summary>
+
+![question-22](image-12.png)
+
+</details>
+
+---
+
+### Question - 23:
+
+A company plans to implement chatbots by using Power Virtual Agents. <br>
+The company has the following requirements for the bots: <br>
+• Users in the accounting department must be able to create a bot for frequently asked questions.<br>
+• The support desk users must be able to use the bot.<br>
+
+The users must not be able to change environment parameters in the Microsoft Power Platform environment. <br>
+You need to configure the permissions for the bots. <br>
+Which actions should you implement? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point.
+
+![question-23](image-13.png)
+
+<details>
+    <summary>Answer</summary>
+
+-   C. Assign users the Maker permission: This permission allows users to create and manage their own bots without giving them the ability to change environment parameters.
+-   B. Share the bot with a security group: Sharing the bot with a security group ensures that support desk users can access and use the bot without having permissions to modify it or the environment settings.
+
+</details>
+
+---
+
+### Question - 24:
+
+You use Power Virtual Agents to create a bot that will answer and transfer help desk calls. <br>
+You create topics that contain nodes and functions. The company has the following requirements for the bot: <br>
+• When a caller states the word issue, help, or problem, the bot must respond with the question, “How can we help you today?” <br>
+• When the bot responds with the question, “How can we help you today?”, the bot must provide the caller with the choices of hardware, software, or other. <br>
+• When the caller asks a question, the bot must save the response so that it can perform an action on the response. <br>
+
+You need to configure the bot. <br>
+Which nodes or functions should you use? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point.
+
+![question-24](image-14.png)
+
+<details>
+    <summary>Answer</summary>
+
+![question-24](image-15.png)
+
+</details>
+
+---
+
+### Question - 25:
+
+A company creates a bot by using Power Virtual Agents. <br>
+The company requires the bot to transfer callers to an agent if the bot is unable to recognize a customer’s request. <br>
+You need to configure the bot for the unrecognized information from the customer. <br>
+Which feature should you use?
+
+-   A. Fallback skill
+-   B. Fallback topic
+-   C. Fallback workstream
+-   D. Fallback entity
+-   E. Fallback queue
+
+<details>
+    <summary>Answer</summary>
+
+-   B. Fallback topic
+
+</details>
+
+---
+
+### Question - 26:
+
+A company plans to create a Power Virtual Agents chatbot. <br>
+The bot has the following requirements: <br>
+• Prompt for a location of the customer and the call must be routed to a support agent for the location. <br>
+• Transfer support calls at each location to a support bot that uses the Bot Framework. <br>
+
+You need to configure the bot. <br>
+Which components should you use? To answer, drag the appropriate components to the correct requirements. Each component may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
+NOTE: Each correct selection is worth one point.
+
+![question-26](image-16.png)
+
+<details>
+    <summary>Answer</summary>
+
+1. Topics
+2. Skills
+
+</details>
+
+---
+
+### Question - 27:
+
+A company is building a Power Virtual Agents chatbot. <br>
+Users in the accounting department require access to collaborate with the building of the bot. Users in the sales department require access to only chat with the bot. <br>
+You need to configure the bot. <br>
+Which sharing options should you use? To answer, drag the appropriate sharing options to the correct requirements. Each sharing option may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
+NOTE: Each correct selection is worth one point.
+
+![question-27](image-17.png)
 
 <details>
     <summary>Answer</summary>
@@ -472,82 +593,95 @@ Which component should you use?
 
 ---
 
-### Question - 1:
+### Question - 28:
+
+You create a Power Virtual Agents bot. <br>
+You observe that the bot is not able to recognize input from some users. <br>
+You need to configure the bot response for unrecognized input from users. <br>
+What are two possible ways to achieve this goal? Each correct answer presents a complete solution. <br>
+NOTE: Each correct selection is worth one point.
+
+-   A. Connect to a different channel.
+-   B. Display a system-defined error message.
+-   C. Use a fallback topic.
+-   D. Transfer to an agent.
 
 <details>
     <summary>Answer</summary>
+
+-   C. Use a fallback topic.
+-   D. Transfer to an agent.
 
 </details>
 
 ---
 
-### Question - 1:
+### Question - 29:
+
+You plan to create a Power Virtual Agents bot. <br>
+The bot has the following requirements: <br>
+• Ensure that user responses are available to any topic. <br>
+• Recognize a list of words from spoken language of users. <br>
+
+You need to configure the bot. <br>
+Which features should you use? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point.
+
+![question-29](image-18.png)
 
 <details>
     <summary>Answer</summary>
+
+1. Bot variable
+2. Entity
 
 </details>
 
 ---
 
-### Question - 1:
+### Question - 30:
+
+You deploy a Power Virtual Agents chatbot that integrates with Dynamics 365 Omnichannel for Customer Service. <br>
+You observe that the chatbot is not able to recognize the questions asked by users. <br>
+You need to ensure that the chatbot can respond to unrecognized questions. The solution must minimize administrative effort. <br>
+What should you do?
+
+-   A. Add a fallback topic.
+-   B. Create new topics.
+-   C. Create an entity.
+-   D. Modify the Escalate system topic.
 
 <details>
     <summary>Answer</summary>
+
+-   A. Add a fallback topic.
 
 </details>
 
 ---
 
-### Question - 1:
+### Question - 31:
+
+A company deploys a chatbot that is embedded in a Power Pages website. <br>
+The company has the following requirements for the chatbot: <br>
+• Microsoft Entra ID users only must be able to use the chatbot when accessing sensitive data. <br>
+• The chatbot must be accessible only from the Power Pages website. <br>
+
+You need to recommend a solution that meets the requirements. <br>
+Which two options should you recommend? Each correct answer presents part of the solution. <br>
+NOTE: Each correct selection is worth one point.
+
+-   A. Enable Only for Teams authentication.
+-   B. Configure a data loss prevention policy.
+-   C. Set up a new channel for the chatbot.
+-   D. Enable Manual authentication.
+-   E. Enable web channel security.
 
 <details>
     <summary>Answer</summary>
 
-</details>
-
----
-
-### Question - 1:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 1:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 1:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 1:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 1:
-
-<details>
-    <summary>Answer</summary>
+-   C. Set up a new channel for the chatbot.
+-   E. Enable web channel security.
 
 </details>
 
