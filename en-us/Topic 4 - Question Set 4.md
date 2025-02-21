@@ -55,12 +55,12 @@ Which features should you use? To answer, select the appropriate options in the 
 NOTE: Each correct selection is worth one point. <br>
 Hot Area:
 
-![question-3](image.png)
+![question-3](./topic-4-Images/image.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-3](image-1.png)
+![question-3](./topic-4-Images/image-1.png)
 
 </details>
 
@@ -74,12 +74,12 @@ You need to create topics from existing website content. The process must minimi
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 Select and Place: <br>
 
-![question-4](image-2.png)
+![question-4](./topic-4-Images/image-2.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-4](image-3.png)
+![question-4](./topic-4-Images/image-3.png)
 
 </details>
 
@@ -155,12 +155,12 @@ You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 Select and Place: <br>
 
-![question-8](image-4.png)
+![question-8](./topic-4-Images/image-4.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-8](image-5.png)
+![question-8](./topic-4-Images/image-5.png)
 
 </details>
 
@@ -256,12 +256,12 @@ Which methods should you use? To answer, select the appropriate options in the a
 NOTE: Each correct selection is worth one point. <br>
 Hot Area:
 
-![question-12](image-6.png)
+![question-12](./topic-4-Images/image-6.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-12](image-7.png)
+![question-12](./topic-4-Images/image-7.png)
 
 </details>
 
@@ -275,12 +275,12 @@ Which features should you use? To answer, drag the appropriate features to the c
 NOTE: Each correct selection is worth one point. <br>
 Select and Place: <br>
 
-![question-13](image-8.png)
+![question-13](./topic-4-Images/image-8.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-13](image-9.png)
+![question-13](./topic-4-Images/image-9.png)
 
 </details>
 
@@ -383,7 +383,7 @@ You need to configure the chatbot. <br>
 What should you do? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-18](image-10.png)
+![question-18](./topic-4-Images/image-10.png)
 
 <details>
     <summary>Answer</summary>
@@ -473,12 +473,12 @@ The company has the following requirements for the bot: <br>
 You need to configure the bot. <br>
 Which features should you use? To answer, select the appropriate options in the answer area.
 
-![question-22](image-11.png)
+![question-22](./topic-4-Images/image-11.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-22](image-12.png)
+![question-22](./topic-4-Images/image-12.png)
 
 </details>
 
@@ -496,7 +496,7 @@ You need to configure the permissions for the bots. <br>
 Which actions should you implement? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-23](image-13.png)
+![question-23](./topic-4-Images/image-13.png)
 
 <details>
     <summary>Answer</summary>
@@ -520,12 +520,12 @@ You need to configure the bot. <br>
 Which nodes or functions should you use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-24](image-14.png)
+![question-24](./topic-4-Images/image-14.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-24](image-15.png)
+![question-24](./topic-4-Images/image-15.png)
 
 </details>
 
@@ -564,7 +564,7 @@ You need to configure the bot. <br>
 Which components should you use? To answer, drag the appropriate components to the correct requirements. Each component may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-26](image-16.png)
+![question-26](./topic-4-Images/image-16.png)
 
 <details>
     <summary>Answer</summary>
@@ -584,7 +584,7 @@ You need to configure the bot. <br>
 Which sharing options should you use? To answer, drag the appropriate sharing options to the correct requirements. Each sharing option may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-27](image-17.png)
+![question-27](./topic-4-Images/image-17.png)
 
 <details>
     <summary>Answer</summary>
@@ -627,7 +627,7 @@ You need to configure the bot. <br>
 Which features should you use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-29](image-18.png)
+![question-29](./topic-4-Images/image-18.png)
 
 <details>
     <summary>Answer</summary>
@@ -771,7 +771,7 @@ You need to configure the Primary Contact field. <br>
 What should you configure? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-32](image-19.png)
+![question-32](./topic-4-Images/image-19.png)
 
 <details>
     <summary>Answer</summary>
@@ -779,96 +779,6 @@ NOTE: Each correct selection is worth one point.
 1. Data Type: Lookup
 2. Visibility: Business rule where the Set Visibility action is Yes
 3. Requirement: Business rule where the Business Required action is Business Required
-
-</details>
-
----
-
-### Question - 33:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 34:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 35:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 36:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 37:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 38:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 39:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 40:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 41:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 42:
-
-<details>
-    <summary>Answer</summary>
 
 </details>
 
