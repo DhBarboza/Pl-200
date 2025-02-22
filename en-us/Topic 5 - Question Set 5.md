@@ -51,7 +51,7 @@ You need to determine which AI Builder model types to use. <br>
 Which model types should you use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-3](image-20.png)
+![question-3](./topic-5-images/./topic-5-images/image-20.png)
 
 <details>
     <summary>Answer</summary>
@@ -91,7 +91,7 @@ You create a report by using Power BI Desktop and publish the report to the Powe
 You need to configure the model-driven app to display a Power BI tile. <br>
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 
-![question-5](image-21.png)
+![question-5](./topic-5-images/image-21.png)
 
 <details>
     <summary>Answer</summary>
@@ -134,12 +134,12 @@ For the past few quarters, the company has experienced a decrease in sales reven
 The company plans to use AI Builder to implement the solution. You select fields that will be used for prediction. <br>
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 
-![question-7](image-22.png)
+![question-7](./topic-5-images/image-22.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-7](image-23.png)
+![question-7](./topic-5-images/image-23.png)
 
 </details>
 
@@ -175,7 +175,7 @@ You need to identify the impact of the new version on the existing account recor
 What is the outcome in each scenario? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-9](image-24.png)
+![question-9](./topic-5-images/image-24.png)
 
 <details>
     <summary>Answer</summary>
@@ -195,7 +195,7 @@ You need to determine which flow type should be used for each process. <br>
 Which flow type should you use? To answer, drag the appropriate processes to the correct flow types. Each process may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-10](image-25.png)
+![question-10](./topic-5-images/image-25.png)
 
 <details>
     <summary>Answer</summary>
@@ -255,7 +255,7 @@ You need to determine how to upload the Excel templates. <br>
 Which method should you use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-13](image-26.png)
+![question-13](./topic-5-images/image-26.png)
 
 <details>
     <summary>Answer</summary>
@@ -273,12 +273,12 @@ You configure an alert in Power BI. <br>
 You need to alert users when the value of a tile exceeds a threshold. To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-14](image-27.png)
+![question-14](./topic-5-images/image-27.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-14](image-28.png)
+![question-14](./topic-5-images/image-28.png)
 
 </details>
 
@@ -490,7 +490,7 @@ You need to create the solution. <br>
 Which action should you perform? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-24](image-1.png)
+![question-24](./topic-5-images/image-1.png)
 
 <details>
     <summary>Answer</summary>
@@ -555,7 +555,7 @@ You need to filter data in the dataflow and in the canvas app. <br>
 Which tools should you use? To answer, drag the appropriate tools to the correct requirements. Each tool may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-27](image-2.png)
+![question-27](./topic-5-images/image-2.png)
 
 <details>
     <summary>Answer</summary>
@@ -599,12 +599,12 @@ You need to configure the dataflow. <br>
 What should you do? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-29](image-3.png)
+![question-29](./topic-5-images/image-3.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-29](image-4.png)
+![question-29](./topic-5-images/image-4.png)
 
 </details>
 
@@ -612,8 +612,24 @@ NOTE: Each correct selection is worth one point.
 
 ### Question - 30:
 
+You plan to create a dataflow to import data into Microsoft Dataverse by using Power Query. <br<
+The dataflow has the following requirements: <br<
+• A table of aggregated data must be created in dataflow storage. <br>
+• A unique identifier must be created for the table. <br>
+
+You need to configure the dataflow. <br<
+Which solutions should you use? To answer, select the appropriate options in the answer area. <br<
+NOTE: Each correct selection is worth one point.
+
+![question-30](./topic-5-images/image-5.png)
+
 <details>
     <summary>Answer</summary>
+
+-   Computed Entity: Use a computed entity to perform the necessary calculations and aggregations on the data before storing it in the dataflow storage.
+    A unique identifier must be created for the table:
+-   Key Column: Create a key column to serve as the unique identifier for the table.
+    By using a computed entity for aggregation and a key column for unique identification, you can effectively configure your dataflow to meet the specified requirements.
 
 </details>
 
@@ -621,8 +637,21 @@ NOTE: Each correct selection is worth one point.
 
 ### Question - 31:
 
+You plan to create a dataflow by using Power Query to transform the data. <br>
+You observe that some cells display an error instead of the expected data. <br>
+You need to obtain more details about the errors. <br>
+What should you do?
+
+-   A. Use the App Checker.
+-   B. Select the cell with the error.
+-   C. Use the Flow Checker.
+-   D. Select the row that includes the cell with the error.
+-   E. Use the Advanced Editor.
+
 <details>
     <summary>Answer</summary>
+
+-   B. Select the cell with the error.
 
 </details>
 
@@ -630,8 +659,20 @@ NOTE: Each correct selection is worth one point.
 
 ### Question - 32:
 
+A company creates a model-driven app. <br>
+Users require access to a Power BI report that is embedded in the app. <br>
+You need to configure the app. <br>
+Where should you add the report?
+
+-   A. XML report
+-   B. Dashboard
+-   C. Business rule
+-   D. Power Automate cloud flow
+
 <details>
     <summary>Answer</summary>
+
+-   B. Dashboard
 
 </details>
 
@@ -639,8 +680,20 @@ NOTE: Each correct selection is worth one point.
 
 ### Question - 33:
 
+A company is implementing Microsoft Power Platform solutions. <br>
+The company requests information on the features that are supported by Power Fx. <br>
+You need to identify the features of Power Fx. <br>
+What should you identify?
+
+-   A. It uses imperative and declarative logic.
+-   B. It uses an undefined value for uninitialized variables.
+-   C. It uses a plug-in.
+-   D. It uses the model-driven app formula language.
+
 <details>
     <summary>Answer</summary>
+
+-   A. It uses imperative and declarative logic.
 
 </details>
 
@@ -648,8 +701,23 @@ NOTE: Each correct selection is worth one point.
 
 ### Question - 34:
 
+You use a dataflow to import data into Microsoft Dataverse. <br>
+The data uses the following schema:
+
+![question-34](./topic-5-images/image-6.png)
+
+The data must load in the least amount of time. <br>
+You need to configure the incremental refresh settings for the dataflow. <br>
+Which columns should you use? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point.
+
+![question-34](./topic-5-images/image-7.png)
+
 <details>
     <summary>Answer</summary>
+
+-   createdon
+-   modifiedon
 
 </details>
 
@@ -657,8 +725,19 @@ NOTE: Each correct selection is worth one point.
 
 ### Question - 35:
 
+A company uses Dataverse to store the names of contacts. The company uses a shared Microsoft Excel file to collect the data. <br>
+The company requires that the contacts be added to Dataverse automatically every day. <br>
+You need to identify which tools are required to create and perform the import. <br>
+What should you use? To answer, select the appropriate options in the answer area. <br>
+NOTE: Each correct selection is worth one point.
+
+![question-35](./topic-5-images/image-8.png)
+
 <details>
     <summary>Answer</summary>
+
+-   Dataflow
+-   Power Query
 
 </details>
 
@@ -666,8 +745,20 @@ NOTE: Each correct selection is worth one point.
 
 ### Question - 36:
 
+A company is implementing Microsoft Power Platform solutions. <br>
+The company requests information on the features that are supported by Power Fx. <br>
+You need to identify the features of Power Fx. <br>
+What should you identify?
+
+-   A. It is available for purchase through a Microsoft reseller.
+-   B. It uses an undefined value for uninitialized variables.
+-   C. It uses formulas that are similar to Microsoft Excel formulas.
+-   D. It uses synchronous data operations.
+
 <details>
     <summary>Answer</summary>
+
+-   C. It uses formulas that are similar to Microsoft Excel formulas.
 
 </details>
 
@@ -675,57 +766,15 @@ NOTE: Each correct selection is worth one point.
 
 ### Question - 37:
 
-<details>
-    <summary>Answer</summary>
+A company is implementing Microsoft Power Platform solutions. <br>
+The company requests information on the features that are supported by Power Fx. <br>
+You need to identify the features of Power Fx. <br>
+What should you identify?
 
-</details>
-
----
-
-### Question - 38:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 39:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 40:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 41:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
-
-### Question - 42:
-
-<details>
-    <summary>Answer</summary>
-
-</details>
-
----
+-   A. It uses imperative and declarative logic.
+-   B. It is available for purchase through a Microsoft reseller.
+-   C. It uses an undefined value for uninitialized variables.
+-   D. It provides a manual compiler.
 
 <details>
     <summary>Answer</summary>
