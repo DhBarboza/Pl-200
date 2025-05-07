@@ -5,7 +5,7 @@ You need to create a dashboard that displays information on help desk cases that
 Which dashboard components should you use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-1](image.png)
+![question-1](./topic-6-images/image.png)
 
 <details>
     <summary>Answer</summary>
@@ -28,7 +28,7 @@ You need to stop the flow and correct the issue. <br>
 What should you do? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-2](image-1.png)
+![question-2](./topic-6-images/image-1.png)
 
 <details>
     <summary>Answer</summary>
@@ -69,12 +69,12 @@ The company wants the app to display each local language. <br>
 You need to add the Spanish and French languages. <br>
 Which four actions should you perform in sequence for each language? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 
-![question-4](image-2.png)
+![question-4](./topic-6-images/image-2.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-4](image-3.png)
+![question-4](./topic-6-images/image-3.png)
 
 </details>
 
@@ -87,12 +87,12 @@ You need to configure French and Spanish. <br>
 Which configuration component should you use? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-5](image-4.png)
+![question-5](./topic-6-images/image-4.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-5](image-5.png)
+![question-5](./topic-6-images/image-5.png)
 
 </details>
 
@@ -152,12 +152,12 @@ The changes must meet the following requirements: <br>
 You need to prepare a solution for deployment to the test environment. <br>
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order. <br>
 
-![question-8](image-6.png)
+![question-8](./topic-6-images/image-6.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-8](image-7.png)
+![question-8](./topic-6-images/image-7.png)
 
 </details>
 
@@ -192,7 +192,7 @@ You need to explain the results of removing the solutions. <br>
 Which components will be affected? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-10](image-8.png)
+![question-10](./topic-6-images/image-8.png)
 
 <details>
     <summary>Answer</summary>
@@ -234,12 +234,12 @@ The company requires a canvas app that includes the same data as the model-drive
 You need to create the canvas app. <br>
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![question-12](image-9.png)
+![question-12](./topic-6-images/image-9.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-12](image-10.png)
+![question-12](./topic-6-images/image-10.png)
 
 </details>
 
@@ -253,12 +253,12 @@ The table must be added to a solution to be promoted once the change is made. <b
 Only this change must be promoted to the test environment. The changes must not be able to be changed once promoted. <br>
 You need to add the change to a solution for promotion.
 
-![question-13](image-11.png)
+![question-13](./topic-6-images/image-11.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-13](image-12.png)
+![question-13](./topic-6-images/image-12.png)
 
 </details>
 
@@ -276,7 +276,7 @@ You need to create the solution. <br>
 Which table option should you use? To answer, drag the appropriate options to the correct tables. Each option may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-14](image-13.png)
+![question-14](./topic-6-images/image-13.png)
 
 <details>
     <summary>Answer</summary>
@@ -476,12 +476,12 @@ You need to recommend a solution for each requirement. <br>
 What should you recommend? To answer, move the appropriate features to the correct requirements. You may use each feature once, more than once, or not at all. You may need to move the split bar between panes or scroll to view content. <br>
 NOTE: Each correct selection is worth one point. <br>
 
-![question-20](image-14.png)
+![question-20](./topic-6-images/image-14.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-20](image-15.png)
+![question-20](./topic-6-images/image-15.png)
 
 </details>
 
@@ -539,7 +539,7 @@ Based on new requirements from end users, the Prospects table must be reconfigur
 You need to configure the integration. <br>
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![question-23](image-16.png)
+![question-23](./topic-6-images/image-16.png)
 
 <details>
     <summary>Answer</summary>
@@ -561,12 +561,12 @@ You need to determine the locations to use to complete the configuration. <br>
 Where should you navigate to? To answer, select the appropriate options in the answer area. <br>
 NOTE: Each correct selection is worth one point.
 
-![question-24](image-17.png)
+![question-24](./topic-6-images/image-17.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-24](image-18.png)
+![question-24](./topic-6-images/image-18.png)
 
 </details>
 
@@ -652,12 +652,12 @@ Dog residency-
 You need to create reminders for the adopters. <br>
 What should you use for each requirement? To answer, select the appropriate options in the answer area.
 
-![question-25](image-19.png)
+![question-25](./topic-6-images/image-19.png)
 
 <details>
     <summary>Answer</summary>
 
-![question-25](image-20.png)
+![question-25](./topic-6-images/image-20.png)
 
 </details>
 
